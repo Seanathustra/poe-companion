@@ -18,7 +18,7 @@
     }
   ],
   "defaultLeague": "Allflame",
-  "fetchedAt": "2026-10-10T20:54:12.626Z",
+  "fetchedAt": "2026-10-10T23:59:17.531Z",
   "data": {
     "Allflame": {
       "source": "exchange",
@@ -26,32 +26,22 @@
         {
           "id": "accelerating-catalyst",
           "name": "Accelerating Catalyst",
-          "value": 1.89,
+          "value": 2.08,
           "unit": "chaos",
-          "changePct": 7.04,
-          "volume": 95.33,
+          "changePct": 48.56,
+          "volume": 82.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1NwZWVkTW9kaWZpZXJDYXRhbHlzdCIsInNjYWxlIjoxfV0/6493f34e78/SpeedModifierCatalyst.png",
-          "divineValue": 0.005323943661971831
+          "divineValue": 0.005854207711792851
         },
         {
           "id": "chaos",
           "name": "Chaos Orb",
           "value": 1,
           "unit": "chaos",
-          "changePct": 7.68,
-          "volume": 1067334,
+          "changePct": 8.75,
+          "volume": 888785,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwic2NhbGUiOjF9XQ/46a2347805/CurrencyRerollRare.png",
-          "divineValue": 0.0028169014084507044
-        },
-        {
-          "id": "divine",
-          "name": "Divine Orb",
-          "value": 355,
-          "unit": "chaos",
-          "changePct": -7.14,
-          "volume": 1067334,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJzY2FsZSI6MX1d/ec48896769/CurrencyModValues.png",
-          "divineValue": 1
+          "divineValue": 0.0028145229383619475
         },
         {
           "id": "blessed",
@@ -59,969 +49,979 @@
           "value": 1.33,
           "unit": "chaos",
           "changePct": 54.41,
-          "volume": 355,
+          "volume": 355.3,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJbXBsaWNpdE1vZCIsInNjYWxlIjoxfV0/48e700cc20/CurrencyImplicitMod.png",
-          "divineValue": 0.0037464788732394366
+          "divineValue": 0.0037433155080213902
+        },
+        {
+          "id": "divine",
+          "name": "Divine Orb",
+          "value": 355.3,
+          "unit": "chaos",
+          "changePct": -8.05,
+          "volume": 888785,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJzY2FsZSI6MX1d/ec48896769/CurrencyModValues.png",
+          "divineValue": 1
         },
         {
           "id": "abrasive-catalyst",
           "name": "Abrasive Catalyst",
-          "value": 0.879,
+          "value": 1.51,
           "unit": "chaos",
-          "changePct": -38.37,
-          "volume": 95.67,
+          "changePct": 20.42,
+          "volume": 74.67,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0FicmFzaXZlQ2F0YWx5c3QiLCJzY2FsZSI6MX1d/aca49c3cc0/AbrasiveCatalyst.png",
-          "divineValue": 0.002476056338028169
+          "divineValue": 0.0042499296369265405
         },
         {
           "id": "alch",
           "name": "Orb of Alchemy",
-          "value": 0.02274,
+          "value": 0.03134,
           "unit": "chaos",
-          "changePct": 217.9,
-          "volume": 282.2,
+          "changePct": 258.4,
+          "volume": 213.8,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9SYXJlIiwic2NhbGUiOjF9XQ/0c72cd1d44/CurrencyUpgradeToRare.png",
-          "divineValue": 0.00006405633802816901
+          "divineValue": 0.00008820714888826343
         },
         {
           "id": "alt",
           "name": "Orb of Alteration",
-          "value": 0.09215,
+          "value": 0.09747,
           "unit": "chaos",
-          "changePct": -22.71,
-          "volume": 4289,
+          "changePct": -16.64,
+          "volume": 4131,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxNYWdpYyIsInNjYWxlIjoxfV0/6308fc8ca2/CurrencyRerollMagic.png",
-          "divineValue": 0.0002595774647887324
+          "divineValue": 0.00027433155080213903
         },
         {
           "id": "ancient-orb",
           "name": "Ancient Orb",
-          "value": 5.46,
+          "value": 5.84,
           "unit": "chaos",
-          "changePct": -41.05,
-          "volume": 7851,
+          "changePct": -39.04,
+          "volume": 7552,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jaWVudE9yYiIsInNjYWxlIjoxfV0/83015d0dc9/AncientOrb.png",
-          "divineValue": 0.015380281690140845
+          "divineValue": 0.016436813960033773
         },
         {
           "id": "annul",
           "name": "Orb of Annulment",
-          "value": 12.36,
+          "value": 13.07,
           "unit": "chaos",
-          "changePct": 6.76,
-          "volume": 12554,
+          "changePct": 13.56,
+          "volume": 11680,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5udWxsT3JiIiwic2NhbGUiOjF9XQ/0858a418ac/AnnullOrb.png",
-          "divineValue": 0.0348169014084507
+          "divineValue": 0.03678581480439066
         },
         {
           "id": "aug",
           "name": "Orb of Augmentation",
-          "value": 0.03915,
+          "value": 0.05379,
           "unit": "chaos",
-          "changePct": -6.34,
-          "volume": 292.3,
+          "changePct": 16.13,
+          "volume": 357.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb01hZ2ljIiwic2NhbGUiOjF9XQ/d879c15321/CurrencyAddModToMagic.png",
-          "divineValue": 0.00011028169014084506
+          "divineValue": 0.00015139318885448914
         },
         {
           "id": "awakeners-orb",
           "name": "Awakener's Orb",
-          "value": 994.1,
+          "value": 884.3,
           "unit": "chaos",
-          "changePct": 12.34,
-          "volume": 9941,
+          "changePct": -1.11,
+          "volume": 7369,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVHJhbnNmZXJPcmIiLCJzY2FsZSI6MX1d/f3b1c1566f/TransferOrb.png",
-          "divineValue": 2.800281690140845
+          "divineValue": 2.48888263439347
         },
         {
           "id": "bauble",
           "name": "Glassblower's Bauble",
-          "value": 0.2451,
+          "value": 0.2249,
           "unit": "chaos",
-          "changePct": -79.76,
-          "volume": 324.8,
+          "changePct": -66.54,
+          "volume": 281.3,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lGbGFza1F1YWxpdHkiLCJzY2FsZSI6MX1d/59e57027e5/CurrencyFlaskQuality.png",
-          "divineValue": 0.0006904225352112677
+          "divineValue": 0.0006329862088376019
         },
         {
           "id": "chance",
           "name": "Orb of Chance",
-          "value": 0.0941,
+          "value": 0.08478,
           "unit": "chaos",
-          "changePct": -22.54,
-          "volume": 1975,
+          "changePct": -33.77,
+          "volume": 2191,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlUmFuZG9tbHkiLCJzY2FsZSI6MX1d/a3f9bf0917/CurrencyUpgradeRandomly.png",
-          "divineValue": 0.00026507042253521126
+          "divineValue": 0.0002386152547143259
         },
         {
           "id": "dead-mans-sulphur",
           "name": "Dead Man's Sulphur",
-          "value": 0.00927,
+          "value": 0.009434,
           "unit": "chaos",
-          "changePct": 0.79,
-          "volume": 82845,
+          "changePct": 0.94,
+          "volume": 69293,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVlcHdhdGVyL0RlZXB3YXRlckNvcmFsIiwic2NhbGUiOjF9XQ/2a07cdf853/DeepwaterCoral.png",
-          "divineValue": 0.00002611267605633803
+          "divineValue": 0.00002655220940050661
         },
         {
           "id": "elders-exalted-orb",
           "name": "Elder's Exalted Orb",
-          "value": 130.6,
+          "value": 122.2,
           "unit": "chaos",
-          "changePct": -3.72,
-          "volume": 1720,
+          "changePct": -10.66,
+          "volume": 1711,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvRWxkZXJFeGFsdGVkT3JiIiwic2NhbGUiOjF9XQ/06f31a048c/ElderExaltedOrb.png",
-          "divineValue": 0.36788732394366197
+          "divineValue": 0.34393470306782997
         },
         {
           "id": "eldritch-chaos-orb",
           "name": "Eldritch Chaos Orb",
-          "value": 30.02,
+          "value": 21.26,
           "unit": "chaos",
-          "changePct": -25.68,
-          "volume": 12012,
+          "changePct": -28.98,
+          "volume": 5708,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hDaGFvc09yYiIsInNjYWxlIjoxfV0/98091fc653/EldritchChaosOrb.png",
-          "divineValue": 0.08456338028169014
+          "divineValue": 0.05983675766957501
         },
         {
           "id": "eldritch-exalted-orb",
           "name": "Eldritch Exalted Orb",
-          "value": 3.57,
+          "value": 2.24,
           "unit": "chaos",
-          "changePct": -31.61,
-          "volume": 414.2,
+          "changePct": -55.58,
+          "volume": 354.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hFeGFsdGVkT3JiIiwic2NhbGUiOjF9XQ/2da131e652/EldritchExaltedOrb.png",
-          "divineValue": 0.010056338028169014
+          "divineValue": 0.006304531381930763
         },
         {
           "id": "eldritch-orb-of-annulment",
           "name": "Eldritch Orb of Annulment",
-          "value": 19.6,
+          "value": 22.68,
           "unit": "chaos",
-          "changePct": -53.23,
-          "volume": 4248,
+          "changePct": -17.19,
+          "volume": 5450,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hBbm51bG1lbnRPcmIiLCJzY2FsZSI6MX1d/b58add03eb/EldritchAnnulmentOrb.png",
-          "divineValue": 0.05521126760563381
+          "divineValue": 0.06383338024204897
         },
         {
           "id": "enkindling-orb",
           "name": "Enkindling Orb",
-          "value": 0.7464,
+          "value": 0.863,
           "unit": "chaos",
-          "changePct": -38.12,
-          "volume": 657,
+          "changePct": -17.77,
+          "volume": 579.3,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza1BsYXRlIiwic2NhbGUiOjF9XQ/7c1a584a8d/FlaskPlate.png",
-          "divineValue": 0.0021025352112676054
+          "divineValue": 0.0024289332958063606
         },
         {
           "id": "exalted",
           "name": "Exalted Orb",
-          "value": 2.4,
+          "value": 2.54,
           "unit": "chaos",
-          "changePct": -22.57,
-          "volume": 7510,
+          "changePct": -21.8,
+          "volume": 7058,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJzY2FsZSI6MX1d/33f2656aea/CurrencyAddModToRare.png",
-          "divineValue": 0.00676056338028169
+          "divineValue": 0.007148888263439347
         },
         {
           "id": "exceptional-eldritch-ichor",
           "name": "Exceptional Eldritch Ichor",
-          "value": 180.5,
+          "value": 178.8,
           "unit": "chaos",
-          "changePct": -24.03,
-          "volume": 4451,
+          "changePct": -19.78,
+          "volume": 6051,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazQiLCJzY2FsZSI6MX1d/dcf73ecd8e/TangleOrbRank4.png",
-          "divineValue": 0.5084507042253521
+          "divineValue": 0.5032367013791162
         },
         {
           "id": "fertile-catalyst",
           "name": "Fertile Catalyst",
-          "value": 34.64,
+          "value": 34.24,
           "unit": "chaos",
-          "changePct": 22.32,
-          "volume": 5605,
+          "changePct": 6.45,
+          "volume": 3606,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ZlcnRpbGVDYXRhbHlzdCIsInNjYWxlIjoxfV0/74603722ac/FertileCatalyst.png",
-          "divineValue": 0.0975774647887324
+          "divineValue": 0.09636926540951309
         },
         {
           "id": "fracturing-orb",
           "name": "Fracturing Orb",
-          "value": 382.1,
+          "value": 415,
           "unit": "chaos",
-          "changePct": -4.98,
-          "volume": 22351,
+          "changePct": 0.01,
+          "volume": 31744,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRnJhY3R1cmluZ09yYkNvbWJpbmVkIiwic2NhbGUiOjF9XQ/3fb18e8a5b/FracturingOrbCombined.png",
-          "divineValue": 1.0763380281690142
+          "divineValue": 1.1680270194202083
         },
         {
           "id": "fracturing-shard",
           "name": "Fracturing Shard",
-          "value": 13.3,
+          "value": 13.26,
           "unit": "chaos",
-          "changePct": -23.61,
-          "volume": 22.17,
+          "changePct": -22,
+          "volume": 59.67,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRnJhY3R1cmluZ09yYlNoYXJkIiwic2NhbGUiOjF9XQ/34fdc6a813/FracturingOrbShard.png",
-          "divineValue": 0.037464788732394366
+          "divineValue": 0.03732057416267942
         },
         {
           "id": "fusing",
           "name": "Orb of Fusing",
-          "value": 0.1295,
+          "value": 0.1278,
           "unit": "chaos",
-          "changePct": -11.91,
-          "volume": 3782,
+          "changePct": -22.87,
+          "volume": 3570,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRMaW5rcyIsInNjYWxlIjoxfV0/c5e1959880/CurrencyRerollSocketLinks.png",
-          "divineValue": 0.0003647887323943662
+          "divineValue": 0.0003596960315226569
         },
         {
           "id": "grand-eldritch-ember",
           "name": "Grand Eldritch Ember",
-          "value": 14.21,
+          "value": 13.85,
           "unit": "chaos",
-          "changePct": -14.99,
-          "volume": 13906,
+          "changePct": -15.7,
+          "volume": 12615,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmszIiwic2NhbGUiOjF9XQ/0486f1ac82/CleansingFireOrbRank3.png",
-          "divineValue": 0.04002816901408451
+          "divineValue": 0.038981142696312976
         },
         {
           "id": "grand-eldritch-ichor",
           "name": "Grand Eldritch Ichor",
-          "value": 3.28,
+          "value": 4.11,
           "unit": "chaos",
-          "changePct": -23.62,
-          "volume": 5275,
+          "changePct": -2.46,
+          "volume": 4031,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazMiLCJzY2FsZSI6MX1d/199f3b36f3/TangleOrbRank3.png",
-          "divineValue": 0.00923943661971831
+          "divineValue": 0.011567689276667605
         },
         {
           "id": "greater-eldritch-ember",
           "name": "Greater Eldritch Ember",
-          "value": 0.2645,
+          "value": 0.2964,
           "unit": "chaos",
-          "changePct": -49.48,
-          "volume": 417.2,
+          "changePct": -58.4,
+          "volume": 544.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsyIiwic2NhbGUiOjF9XQ/698817b93d/CleansingFireOrbRank2.png",
-          "divineValue": 0.0007450704225352113
+          "divineValue": 0.0008342245989304812
         },
         {
           "id": "greater-eldritch-ichor",
           "name": "Greater Eldritch Ichor",
-          "value": 0.2493,
+          "value": 0.3402,
           "unit": "chaos",
-          "changePct": -54.26,
-          "volume": 266.3,
+          "changePct": -55.22,
+          "volume": 337,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazIiLCJzY2FsZSI6MX1d/689d1897c7/TangleOrbRank2.png",
-          "divineValue": 0.0007022535211267606
+          "divineValue": 0.0009575007036307345
         },
         {
           "id": "imbued-catalyst",
           "name": "Imbued Catalyst",
-          "value": 0.7431,
+          "value": 0.9235,
           "unit": "chaos",
-          "changePct": -53.59,
-          "volume": 120.5,
+          "changePct": -26.95,
+          "volume": 106.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ltYnVlZENhdGFseXN0Iiwic2NhbGUiOjF9XQ/cce071aa45/ImbuedCatalyst.png",
-          "divineValue": 0.0020932394366197185
+          "divineValue": 0.0025992119335772586
         },
         {
           "id": "instilling-orb",
           "name": "Instilling Orb",
-          "value": 0.3216,
+          "value": 0.2743,
           "unit": "chaos",
-          "changePct": 165,
-          "volume": 242.8,
+          "changePct": 49.61,
+          "volume": 210.8,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza0luamVjdG9yIiwic2NhbGUiOjF9XQ/efc518b1be/FlaskInjector.png",
-          "divineValue": 0.0009059154929577464
+          "divineValue": 0.0007720236419926822
         },
         {
           "id": "intrinsic-catalyst",
           "name": "Intrinsic Catalyst",
-          "value": 1.81,
+          "value": 1.9,
           "unit": "chaos",
-          "changePct": 31.52,
-          "volume": 1164,
+          "changePct": 18.62,
+          "volume": 858.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ludHJpbnNpY0NhdGFseXN0Iiwic2NhbGUiOjF9XQ/cea67fbce2/IntrinsicCatalyst.png",
-          "divineValue": 0.005098591549295775
+          "divineValue": 0.0053475935828877
         },
         {
           "id": "jewellers",
           "name": "Jeweller's Orb",
-          "value": 0.01522,
+          "value": 0.01515,
           "unit": "chaos",
-          "changePct": 1.06,
-          "volume": 417.8,
+          "changePct": 9.26,
+          "volume": 284.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXROdW1iZXJzIiwic2NhbGUiOjF9XQ/ba411ff58a/CurrencyRerollSocketNumbers.png",
-          "divineValue": 0.000042873239436619716
+          "divineValue": 0.00004264002251618351
         },
         {
           "id": "lesser-eldritch-ember",
           "name": "Lesser Eldritch Ember",
-          "value": 0.04227,
+          "value": 0.03759,
           "unit": "chaos",
-          "changePct": -41.37,
-          "volume": 78.17,
+          "changePct": -58.63,
+          "volume": 68.67,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsxIiwic2NhbGUiOjF9XQ/c7df0e0316/CleansingFireOrbRank1.png",
-          "divineValue": 0.00011907042253521127
+          "divineValue": 0.0001057979172530256
         },
         {
           "id": "lesser-eldritch-ichor",
           "name": "Lesser Eldritch Ichor",
-          "value": 0.1268,
+          "value": 0.2036,
           "unit": "chaos",
-          "changePct": 27.11,
-          "volume": 136.7,
+          "changePct": 102.1,
+          "volume": 156.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazEiLCJzY2FsZSI6MX1d/70e5e53590/TangleOrbRank1.png",
-          "divineValue": 0.00035718309859154927
+          "divineValue": 0.0005730368702504925
         },
         {
           "id": "mavens-chisel-of-avarice",
           "name": "Maven's Chisel of Avarice",
-          "value": 156.8,
+          "value": 167.2,
           "unit": "chaos",
-          "changePct": -1,
-          "volume": 12646,
+          "changePct": 9.4,
+          "volume": 13848,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWw0Iiwic2NhbGUiOjF9XQ/d878502dc7/MavenChisel4.png",
-          "divineValue": 0.44169014084507047
+          "divineValue": 0.4705882352941176
         },
         {
           "id": "mavens-chisel-of-scarabs",
           "name": "Maven's Chisel of Scarabs",
-          "value": 56.09,
+          "value": 63.36,
           "unit": "chaos",
-          "changePct": -3.36,
-          "volume": 2393,
+          "changePct": 10.83,
+          "volume": 2820,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwzIiwic2NhbGUiOjF9XQ/a7a9ac8f01/MavenChisel3.png",
-          "divineValue": 0.158
+          "divineValue": 0.17832817337461299
         },
         {
           "id": "orb-of-binding",
           "name": "Orb of Binding",
-          "value": 0.01001,
+          "value": 0.01375,
           "unit": "chaos",
-          "changePct": -50.27,
-          "volume": 2.67,
+          "changePct": 5.85,
+          "volume": 12.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmluZGluZ09yYiIsInNjYWxlIjoxfV0/aac9579bd2/BindingOrb.png",
-          "divineValue": 0.00002819718309859155
+          "divineValue": 0.00003869969040247678
         },
         {
           "id": "orb-of-conflict",
           "name": "Orb of Conflict",
-          "value": 372.8,
+          "value": 376.2,
           "unit": "chaos",
-          "changePct": -5.63,
-          "volume": 26037,
+          "changePct": -5.57,
+          "volume": 23512,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ29uZmxpY3RPcmJSYW5rMSIsInNjYWxlIjoxfV0/7e02c990fc/ConflictOrbRank1.png",
-          "divineValue": 1.0501408450704226
+          "divineValue": 1.0588235294117647
         },
         {
           "id": "orb-of-intention",
           "name": "Orb of Intention",
-          "value": 3.25,
+          "value": 4.6,
           "unit": "chaos",
-          "changePct": 12.07,
-          "volume": 4.33,
+          "changePct": 57.07,
+          "volume": 3.83,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvWmFuYVBpbm5hY2xlT3JiMyIsInNjYWxlIjoxfV0/50ef504807/ZanaPinnacleOrb3.png",
-          "divineValue": 0.009154929577464789
+          "divineValue": 0.012946805516464958
         },
         {
           "id": "orb-of-remembrance",
           "name": "Orb of Remembrance",
-          "value": 99.85,
+          "value": 105.6,
           "unit": "chaos",
-          "changePct": -27.04,
-          "volume": 4210,
+          "changePct": -5.99,
+          "volume": 3573,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvWmFuYVBpbm5hY2xlT3JiMSIsInNjYWxlIjoxfV0/c91033d1be/ZanaPinnacleOrb1.png",
-          "divineValue": 0.2812676056338028
+          "divineValue": 0.29721362229102166
         },
         {
           "id": "orb-of-unmaking",
           "name": "Orb of Unmaking",
-          "value": 0.1945,
+          "value": 0.1787,
           "unit": "chaos",
-          "changePct": 1.96,
-          "volume": 372.3,
+          "changePct": -25.92,
+          "volume": 284.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVncmV0T3JiIiwic2NhbGUiOjF9XQ/beae1b00c7/RegretOrb.png",
-          "divineValue": 0.000547887323943662
+          "divineValue": 0.00050295524908528
         },
         {
           "id": "orb-of-unravelling",
           "name": "Orb of Unravelling",
-          "value": 8.82,
+          "value": 12.05,
           "unit": "chaos",
-          "changePct": -29.5,
-          "volume": 148.5,
+          "changePct": -39.98,
+          "volume": 148.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvWmFuYVBpbm5hY2xlT3JiMiIsInNjYWxlIjoxfV0/68c2c8e04c/ZanaPinnacleOrb2.png",
-          "divineValue": 0.024845070422535212
+          "divineValue": 0.03391500140726147
         },
         {
           "id": "primal-lifeforce",
           "name": "Primal Crystallised Lifeforce",
-          "value": 0.04036,
+          "value": 0.03945,
           "unit": "chaos",
-          "changePct": -16.04,
-          "volume": 46334,
+          "changePct": -10.35,
+          "volume": 35416,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9QcmltYWxMaWZlZm9yY2UiLCJzY2FsZSI6MX1d/c498cdfd7f/PrimalLifeforce.png",
-          "divineValue": 0.00011369014084507042
+          "divineValue": 0.00011103292991837882
         },
         {
           "id": "redeemers-exalted-orb",
           "name": "Redeemer's Exalted Orb",
-          "value": 189.9,
+          "value": 132.4,
           "unit": "chaos",
-          "changePct": 23.24,
-          "volume": 538.2,
+          "changePct": -3.67,
+          "volume": 308.8,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9FeXJpZU9yYiIsInNjYWxlIjoxfV0/8ec9b52d65/EyrieOrb.png",
-          "divineValue": 0.5349295774647888
+          "divineValue": 0.3726428370391219
         },
         {
           "id": "reflecting-mist",
           "name": "Reflecting Mist",
-          "value": 2160,
+          "value": 2289,
           "unit": "chaos",
-          "changePct": 12.23,
-          "volume": 34558,
+          "changePct": 18.59,
+          "volume": 43116,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVmbGVjdGl2ZU1pc3QiLCJzY2FsZSI6MX1d/26956f795e/ReflectiveMist.png",
-          "divineValue": 6.084507042253521
+          "divineValue": 6.442443005910498
         },
         {
           "id": "regal",
           "name": "Regal Orb",
-          "value": 0.05614,
+          "value": 0.05607,
           "unit": "chaos",
-          "changePct": -6.49,
-          "volume": 218,
+          "changePct": -7.22,
+          "volume": 88,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlTWFnaWNUb1JhcmUiLCJzY2FsZSI6MX1d/0ded706f57/CurrencyUpgradeMagicToRare.png",
-          "divineValue": 0.00015814084507042255
+          "divineValue": 0.0001578103011539544
         },
         {
           "id": "regret",
           "name": "Orb of Regret",
-          "value": 1.02,
+          "value": 1.01,
           "unit": "chaos",
-          "changePct": -17.46,
-          "volume": 2987,
+          "changePct": 12.75,
+          "volume": 2513,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQYXNzaXZlU2tpbGxSZWZ1bmQiLCJzY2FsZSI6MX1d/32d499f562/CurrencyPassiveSkillRefund.png",
-          "divineValue": 0.0028732394366197183
+          "divineValue": 0.002842668167745567
         },
         {
           "id": "sacred-lifeforce",
           "name": "Sacred Crystallised Lifeforce",
-          "value": 51.67,
+          "value": 47.83,
           "unit": "chaos",
-          "changePct": -25.24,
-          "volume": 766.5,
+          "changePct": -17.54,
+          "volume": 574,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9TYWNyZWRMaWZlZm9yY2UiLCJzY2FsZSI6MX1d/edfba3c893/SacredLifeforce.png",
-          "divineValue": 0.1455492957746479
+          "divineValue": 0.13461863214185193
         },
         {
           "id": "sandswept-lifeforce",
           "name": "Crystallised Rancour",
-          "value": 525.5,
+          "value": 571.1,
           "unit": "chaos",
-          "changePct": 12.88,
-          "volume": 6568,
+          "changePct": -12.96,
+          "volume": 5330,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9GYXJpZHVuTGlmZWZvcmNlIiwic2NhbGUiOjF9XQ/8852b4c459/FaridunLifeforce.png",
-          "divineValue": 1.480281690140845
+          "divineValue": 1.6073740500985083
         },
         {
           "id": "scour",
           "name": "Orb of Scouring",
-          "value": 0.7235,
+          "value": 0.5928,
           "unit": "chaos",
-          "changePct": -14.15,
-          "volume": 11480,
+          "changePct": -27.09,
+          "volume": 5281,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lDb252ZXJ0VG9Ob3JtYWwiLCJzY2FsZSI6MX1d/a0981d67fe/CurrencyConvertToNormal.png",
-          "divineValue": 0.0020380281690140847
+          "divineValue": 0.0016684491978609624
         },
         {
           "id": "scrap",
           "name": "Armourer's Scrap",
-          "value": 0.09219,
+          "value": 0.08158,
           "unit": "chaos",
-          "changePct": 60.33,
-          "volume": 437.3,
+          "changePct": 33.21,
+          "volume": 372.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBcm1vdXJRdWFsaXR5Iiwic2NhbGUiOjF9XQ/fc4e26afbc/CurrencyArmourQuality.png",
-          "divineValue": 0.0002596901408450704
+          "divineValue": 0.00022960878131156768
         },
         {
           "id": "shapers-exalted-orb",
           "name": "Shaper's Exalted Orb",
-          "value": 114.7,
+          "value": 88.84,
           "unit": "chaos",
-          "changePct": -22.23,
-          "volume": 1166,
+          "changePct": -41.46,
+          "volume": 1066,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvU2hhcGVyRXhhbHRlZE9yYiIsInNjYWxlIjoxfV0/a8cac8676e/ShaperExaltedOrb.png",
-          "divineValue": 0.32309859154929577
+          "divineValue": 0.25004221784407543
         },
         {
           "id": "tainted-blacksmiths-whetstone",
           "name": "Tainted Blacksmith's Whetstone",
-          "value": 6.87,
+          "value": 1.14,
           "unit": "chaos",
-          "changePct": 12.47,
-          "volume": 177.5,
+          "changePct": 70.66,
+          "volume": 85.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUJsYWNrc21pdGhXaGV0c3RvbmUiLCJzY2FsZSI6MX1d/0309648ccb/HellscapeBlacksmithWhetstone.png",
-          "divineValue": 0.019352112676056337
+          "divineValue": 0.00320855614973262
         },
         {
           "id": "tainted-exalted-orb",
           "name": "Tainted Exalted Orb",
-          "value": 554,
+          "value": 558.7,
           "unit": "chaos",
-          "changePct": 27.44,
-          "volume": 10711,
+          "changePct": 37.58,
+          "volume": 15458,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUV4YWx0ZWRPcmIiLCJzY2FsZSI6MX1d/68a0ea3020/HellscapeExaltedOrb.png",
-          "divineValue": 1.56056338028169
+          "divineValue": 1.5724739656628202
         },
         {
           "id": "tainted-orb-of-fusing",
           "name": "Tainted Orb of Fusing",
-          "value": 17.17,
+          "value": 18.98,
           "unit": "chaos",
-          "changePct": -25.9,
-          "volume": 1791,
+          "changePct": -24.31,
+          "volume": 1164,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU9yYk9mRnVzaW5nIiwic2NhbGUiOjF9XQ/845f3c20ed/HellscapeOrbOfFusing.png",
-          "divineValue": 0.0483661971830986
+          "divineValue": 0.053419645370109764
         },
         {
           "id": "tempering-catalyst",
           "name": "Tempering Catalyst",
-          "value": 9.01,
+          "value": 9.11,
           "unit": "chaos",
-          "changePct": 69.66,
-          "volume": 821,
+          "changePct": 129.6,
+          "volume": 900.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RlbXBlcmluZ0NhdGFseXN0Iiwic2NhbGUiOjF9XQ/6bf69c356e/TemperingCatalyst.png",
-          "divineValue": 0.025380281690140845
+          "divineValue": 0.02564030396847734
         },
         {
           "id": "turbulent-catalyst",
           "name": "Turbulent Catalyst",
-          "value": 2.07,
+          "value": 2.36,
           "unit": "chaos",
-          "changePct": 18.56,
-          "volume": 315.3,
+          "changePct": 33.65,
+          "volume": 186.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1R1cmJ1bGVudENhdGFseXN0Iiwic2NhbGUiOjF9XQ/1f49d03e58/TurbulentCatalyst.png",
-          "divineValue": 0.005830985915492957
+          "divineValue": 0.0066422741345341955
         },
         {
           "id": "vivid-lifeforce",
           "name": "Vivid Crystallised Lifeforce",
-          "value": 0.1606,
+          "value": 0.1582,
           "unit": "chaos",
-          "changePct": 26.95,
-          "volume": 846435,
+          "changePct": 23.39,
+          "volume": 564412,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9WaXZpZExpZmVmb3JjZSIsInNjYWxlIjoxfV0/a355b8a5a2/VividLifeforce.png",
-          "divineValue": 0.0004523943661971831
+          "divineValue": 0.0004452575288488601
         },
         {
           "id": "wild-lifeforce",
           "name": "Wild Crystallised Lifeforce",
-          "value": 0.02115,
+          "value": 0.019,
           "unit": "chaos",
-          "changePct": -1.58,
-          "volume": 15385,
+          "changePct": -8.76,
+          "volume": 10957,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9XaWxkTGlmZWZvcmNlIiwic2NhbGUiOjF9XQ/e3d0b372b0/WildLifeforce.png",
-          "divineValue": 0.00005957746478873239
+          "divineValue": 0.000053475935828877
         },
         {
           "id": "chrome",
           "name": "Chromatic Orb",
-          "value": 2.6,
+          "value": 2.64,
           "unit": "chaos",
-          "changePct": -18.68,
-          "volume": 13815,
+          "changePct": -10.11,
+          "volume": 11470,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRDb2xvdXJzIiwic2NhbGUiOjF9XQ/19c8ddae20/CurrencyRerollSocketColours.png",
-          "divineValue": 0.007323943661971831
+          "divineValue": 0.007430340557275542
         },
         {
           "id": "crusaders-exalted-orb",
           "name": "Crusader's Exalted Orb",
-          "value": 114,
+          "value": 133.2,
           "unit": "chaos",
-          "changePct": -37.73,
-          "volume": 304,
+          "changePct": -33.27,
+          "volume": 688,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9DcnVzYWRlck9yYiIsInNjYWxlIjoxfV0/8b48230188/CrusaderOrb.png",
-          "divineValue": 0.3211267605633803
+          "divineValue": 0.37489445538981137
         },
         {
           "id": "hinekoras-lock",
           "name": "Hinekora's Lock",
-          "value": 85050,
+          "value": 85245,
           "unit": "chaos",
-          "changePct": -0.15,
-          "volume": 1091477,
+          "changePct": 0.99,
+          "volume": 1051357,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGluZWtvcmFzTG9jayIsInNjYWxlIjoxfV0/b188026e7f/HinekorasLock.png",
-          "divineValue": 239.57746478873239
+          "divineValue": 239.92400788066422
         },
         {
           "id": "veiled-exalted-orb",
           "name": "Veiled Exalted Orb",
-          "value": 4092,
+          "value": 4174,
           "unit": "chaos",
-          "changePct": -8.92,
-          "volume": 28641,
+          "changePct": -7,
+          "volume": 43826,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmVpbGVkRXhhbHRlZE9yYiIsInNjYWxlIjoxfV0/976e8acb0b/VeiledExaltedOrb.png",
-          "divineValue": 11.526760563380282
+          "divineValue": 11.74781874472277
         },
         {
           "id": "exceptional-eldritch-ember",
           "name": "Exceptional Eldritch Ember",
-          "value": 243.1,
+          "value": 250.5,
           "unit": "chaos",
-          "changePct": -9.71,
-          "volume": 17101,
+          "changePct": -7.73,
+          "volume": 14569,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbms0Iiwic2NhbGUiOjF9XQ/c2c828fa16/CleansingFireOrbRank4.png",
-          "divineValue": 0.6847887323943662
+          "divineValue": 0.7050379960596679
         },
         {
           "id": "flesh-of-xesht",
           "name": "Flesh of Xesht",
-          "value": 80.61,
+          "value": 80.51,
           "unit": "chaos",
-          "changePct": -2.2,
-          "volume": 510.5,
+          "changePct": 2.01,
+          "volume": 469.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hheXVsYS9Db3JlQnJlYWNoQ3VycmVuY3kiLCJzY2FsZSI6MX1d/32fda5c220/CoreBreachCurrency.png",
-          "divineValue": 0.22707042253521126
+          "divineValue": 0.2265972417675204
         },
         {
           "id": "foulborn-exalted-orb",
           "name": "Foulborn Exalted Orb",
-          "value": 1897,
+          "value": 1878,
           "unit": "chaos",
-          "changePct": -1.06,
-          "volume": 20238,
+          "changePct": -4.35,
+          "volume": 23157,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hheXVsYS9Gb3VsYm9ybkV4YWx0ZWQiLCJzY2FsZSI6MX1d/e2146eb9af/FoulbornExalted.png",
-          "divineValue": 5.343661971830986
+          "divineValue": 5.285674078243738
         },
         {
           "id": "foulborn-orb-of-augmentation",
           "name": "Foulborn Orb of Augmentation",
-          "value": 2.51,
+          "value": 2.53,
           "unit": "chaos",
-          "changePct": -25.58,
-          "volume": 53.17,
+          "changePct": -30.5,
+          "volume": 38.83,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hheXVsYS9Gb3VsYm9ybkF1Z21lbnRhdGlvbiIsInNjYWxlIjoxfV0/44a866f879/FoulbornAugmentation.png",
-          "divineValue": 0.007070422535211267
+          "divineValue": 0.007120743034055727
         },
         {
           "id": "foulborn-regal-orb",
           "name": "Foulborn Regal Orb",
-          "value": 12.13,
+          "value": 13.26,
           "unit": "chaos",
-          "changePct": 15.13,
-          "volume": 689.5,
+          "changePct": 26.26,
+          "volume": 327,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hheXVsYS9Gb3VsYm9yblJlZ2FsIiwic2NhbGUiOjF9XQ/9226ef718f/FoulbornRegal.png",
-          "divineValue": 0.034169014084507045
+          "divineValue": 0.03732057416267942
         },
         {
           "id": "gcp",
           "name": "Gemcutter's Prism",
-          "value": 1.42,
+          "value": 1.53,
           "unit": "chaos",
-          "changePct": -23.46,
-          "volume": 5080,
+          "changePct": -16.05,
+          "volume": 4508,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lHZW1RdWFsaXR5Iiwic2NhbGUiOjF9XQ/dbe9678a28/CurrencyGemQuality.png",
-          "divineValue": 0.004
+          "divineValue": 0.00430622009569378
         },
         {
           "id": "hunters-exalted-orb",
           "name": "Hunter's Exalted Orb",
-          "value": 605.3,
+          "value": 755.7,
           "unit": "chaos",
-          "changePct": -15.69,
-          "volume": 1917,
+          "changePct": 15.18,
+          "volume": 881.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9CYXNpbGlza09yYiIsInNjYWxlIjoxfV0/cd2131d564/BasiliskOrb.png",
-          "divineValue": 1.7050704225352111
+          "divineValue": 2.126934984520124
         },
         {
           "id": "mavens-chisel-of-divination",
           "name": "Maven's Chisel of Divination",
-          "value": 25.9,
+          "value": 26.86,
           "unit": "chaos",
-          "changePct": -31.86,
-          "volume": 1774,
+          "changePct": -29.35,
+          "volume": 1634,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWw1Iiwic2NhbGUiOjF9XQ/ff3e7f02eb/MavenChisel5.png",
-          "divineValue": 0.07295774647887324
+          "divineValue": 0.07559808612440191
         },
         {
           "id": "mavens-chisel-of-procurement",
           "name": "Maven's Chisel of Procurement",
-          "value": 34.94,
+          "value": 33.01,
           "unit": "chaos",
-          "changePct": 130.8,
-          "volume": 2650,
+          "changePct": 107.3,
+          "volume": 2019,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwxIiwic2NhbGUiOjF9XQ/a21d7d73da/MavenChisel1.png",
-          "divineValue": 0.0984225352112676
+          "divineValue": 0.09290740219532788
         },
         {
           "id": "mavens-chisel-of-proliferation",
           "name": "Maven's Chisel of Proliferation",
-          "value": 92.39,
+          "value": 104.8,
           "unit": "chaos",
-          "changePct": 41.3,
-          "volume": 7406,
+          "changePct": 36.49,
+          "volume": 8611,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwyIiwic2NhbGUiOjF9XQ/bb82bb4150/MavenChisel2.png",
-          "divineValue": 0.2602535211267606
+          "divineValue": 0.2949620039403321
         },
         {
           "id": "mavens-orb",
           "name": "Orb of Dominance",
-          "value": 1379,
+          "value": 1364,
           "unit": "chaos",
-          "changePct": 3.17,
-          "volume": 13788,
+          "changePct": -1.33,
+          "volume": 8410,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5PcmIiLCJzY2FsZSI6MX1d/f307d80bfd/MavenOrb.png",
-          "divineValue": 3.8845070422535213
+          "divineValue": 3.8390092879256965
         },
         {
           "id": "mirror",
           "name": "Mirror of Kalandra",
-          "value": 383708,
+          "value": 384521,
           "unit": "chaos",
-          "changePct": 1.32,
-          "volume": 4348688,
+          "changePct": 1.34,
+          "volume": 4037467,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lEdXBsaWNhdGUiLCJzY2FsZSI6MX1d/8d7fea29d1/CurrencyDuplicate.png",
-          "divineValue": 1080.867605633803
+          "divineValue": 1082.2431747818744
         },
         {
           "id": "mirror-shard",
           "name": "Mirror Shard",
-          "value": 20070,
+          "value": 20046,
           "unit": "chaos",
-          "changePct": 3.21,
-          "volume": 177287,
+          "changePct": 2.09,
+          "volume": 153688,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWlycm9yU2hhcmQiLCJzY2FsZSI6MX1d/698183ea2b/MirrorShard.png",
-          "divineValue": 56.53521126760563
+          "divineValue": 56.4199268224036
         },
         {
           "id": "noxious-catalyst",
           "name": "Noxious Catalyst",
-          "value": 0.5938,
+          "value": 0.7245,
           "unit": "chaos",
-          "changePct": -52.89,
-          "volume": 67.5,
+          "changePct": -52.15,
+          "volume": 35.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NoYW9zUGh5c2ljYWxDYXRhbHlzdCIsInNjYWxlIjoxfV0/2b886f8343/ChaosPhysicalCatalyst.png",
-          "divineValue": 0.001672676056338028
+          "divineValue": 0.002039121868843231
         },
         {
           "id": "portal",
           "name": "Portal Scroll",
-          "value": 0.02285,
+          "value": 0.02025,
           "unit": "chaos",
-          "changePct": 2.14,
-          "volume": 246.3,
+          "changePct": 18.63,
+          "volume": 142.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQb3J0YWwiLCJzY2FsZSI6MX1d/d92d3478a0/CurrencyPortal.png",
-          "divineValue": 0.00006436619718309858
+          "divineValue": 0.00005699408950182944
         },
         {
           "id": "prismatic-catalyst",
           "name": "Prismatic Catalyst",
-          "value": 77.26,
+          "value": 79.14,
           "unit": "chaos",
-          "changePct": 23.64,
-          "volume": 8382,
+          "changePct": 22.86,
+          "volume": 7123,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1ByaXNtYXRpY0NhdGFseXN0Iiwic2NhbGUiOjF9XQ/1e725fd26d/PrismaticCatalyst.png",
-          "divineValue": 0.21763380281690142
+          "divineValue": 0.22274134534196452
         },
         {
           "id": "rogues-marker",
           "name": "Rogue's Marker",
-          "value": 0.0005739,
+          "value": 0.0006581,
           "unit": "chaos",
-          "changePct": -38.16,
-          "volume": 707.7,
+          "changePct": -30.08,
+          "volume": 810.3,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVpc3QvSGVpc3RDb2luQ3VycmVuY3kiLCJzY2FsZSI6MX1d/335e66630d/HeistCoinCurrency.png",
-          "divineValue": 0.0000016166197183098591
+          "divineValue": 0.0000018522375457359977
         },
         {
           "id": "sacred-orb",
           "name": "Sacred Orb",
-          "value": 56.59,
+          "value": 58.14,
           "unit": "chaos",
-          "changePct": -25.32,
-          "volume": 3376,
+          "changePct": -30.7,
+          "volume": 3692,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2FjcmVkT3JiIiwic2NhbGUiOjF9XQ/0380fd0dba/SacredOrb.png",
-          "divineValue": 0.15940845070422535
+          "divineValue": 0.16363636363636364
         },
         {
           "id": "stacked-deck",
           "name": "Stacked Deck",
-          "value": 6.17,
+          "value": 6.26,
           "unit": "chaos",
-          "changePct": -4.46,
-          "volume": 427596,
+          "changePct": -3.84,
+          "volume": 314779,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9EZWNrIiwic2NhbGUiOjF9XQ/8e83aea79a/Deck.png",
-          "divineValue": 0.017380281690140845
+          "divineValue": 0.01761891359414579
         },
         {
           "id": "tailoring-orb",
           "name": "Tailoring Orb",
-          "value": 544.8,
+          "value": 564.1,
           "unit": "chaos",
-          "changePct": -16.59,
-          "volume": 44854,
+          "changePct": -15.59,
+          "volume": 34410,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudFdlYXBvbkN1cnJlbmN5Iiwic2NhbGUiOjF9XQ/d417654a23/DivineEnchantWeaponCurrency.png",
-          "divineValue": 1.5346478873239435
+          "divineValue": 1.5876723895299747
         },
         {
           "id": "tainted-armourers-scrap",
           "name": "Tainted Armourer's Scrap",
-          "value": 2.73,
+          "value": 2.68,
           "unit": "chaos",
-          "changePct": 18.73,
-          "volume": 681.7,
+          "changePct": 10.94,
+          "volume": 641.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUFybW91cmVyc1NjcmFwIiwic2NhbGUiOjF9XQ/9ee0a10625/HellscapeArmourersScrap.png",
-          "divineValue": 0.007690140845070422
+          "divineValue": 0.00754292147481002
         },
         {
           "id": "tainted-catalyst",
           "name": "Tainted Catalyst",
-          "value": 17.44,
+          "value": 16.94,
           "unit": "chaos",
-          "changePct": 67.72,
-          "volume": 6213,
+          "changePct": 61.96,
+          "volume": 6515,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RhaW50ZWRDYXRhbHlzdCIsInNjYWxlIjoxfV0/5ce364bd70/TaintedCatalyst.png",
-          "divineValue": 0.049126760563380285
+          "divineValue": 0.0476780185758514
         },
         {
           "id": "tainted-chaos-orb",
           "name": "Tainted Chaos Orb",
-          "value": 9.95,
+          "value": 5.09,
           "unit": "chaos",
-          "changePct": 38.26,
-          "volume": 36.5,
+          "changePct": -35.01,
+          "volume": 9.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNoYW9zT3JiIiwic2NhbGUiOjF9XQ/64d1f4db99/HellscapeChaosOrb.png",
-          "divineValue": 0.028028169014084506
+          "divineValue": 0.014325921756262313
         },
         {
           "id": "tainted-chromatic-orb",
           "name": "Tainted Chromatic Orb",
-          "value": 6.35,
+          "value": 6.89,
           "unit": "chaos",
-          "changePct": 32.84,
-          "volume": 1565,
+          "changePct": 21.28,
+          "volume": 2443,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNocm9tYXRpY09yYiIsInNjYWxlIjoxfV0/702d29c7ab/HellscapeChromaticOrb.png",
-          "divineValue": 0.01788732394366197
+          "divineValue": 0.019392063045313816
         },
         {
           "id": "tainted-divine-orb",
           "name": "Volatile Vaal Orb",
-          "value": 1377,
+          "value": 1379,
           "unit": "chaos",
-          "changePct": 1.68,
-          "volume": 86513,
+          "changePct": 1.16,
+          "volume": 90555,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVm9sYXRpbGVWYWFsT3JiIiwic2NhbGUiOjF9XQ/9bcdda2c63/VolatileVaalOrb.png",
-          "divineValue": 3.87887323943662
+          "divineValue": 3.8812271320011256
         },
         {
           "id": "tainted-divine-teardrop",
           "name": "Tainted Divine Teardrop",
-          "value": 3550,
+          "value": 2132,
           "unit": "chaos",
-          "changePct": 23.29,
-          "volume": 28996,
+          "changePct": -31.65,
+          "volume": 1421,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZVRlYXJkcm9wT3JiIiwic2NhbGUiOjF9XQ/0d251b9d52/HellscapeTeardropOrb.png",
-          "divineValue": 10
+          "divineValue": 6.000562904587672
         },
         {
           "id": "tainted-jewellers-orb",
           "name": "Tainted Jeweller's Orb",
-          "value": 0.9804,
+          "value": 1.31,
           "unit": "chaos",
-          "changePct": -29.14,
-          "volume": 174.7,
+          "changePct": -44.3,
+          "volume": 132.3,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUpld2VsbGVyc09yYiIsInNjYWxlIjoxfV0/f146c29db2/HellscapeJewellersOrb.png",
-          "divineValue": 0.0027616901408450707
+          "divineValue": 0.0036870250492541516
         },
         {
           "id": "tainted-mythic-orb",
           "name": "Tainted Mythic Orb",
-          "value": 10.66,
+          "value": 10.85,
           "unit": "chaos",
-          "changePct": 5.65,
-          "volume": 382,
+          "changePct": -45.23,
+          "volume": 298.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU15dGhpY09yYiIsInNjYWxlIjoxfV0/72ba97d1a8/HellscapeMythicOrb.png",
-          "divineValue": 0.030028169014084508
+          "divineValue": 0.03053757388122713
         },
         {
           "id": "tempering-orb",
           "name": "Tempering Orb",
-          "value": 515.3,
+          "value": 524.2,
           "unit": "chaos",
-          "changePct": -11.88,
-          "volume": 21125,
+          "changePct": -1.78,
+          "volume": 29968,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudEJvZHlBcm1vdXJDdXJyZW5jeSIsInNjYWxlIjoxfV0/37681eda1c/DivineEnchantBodyArmourCurrency.png",
-          "divineValue": 1.4515492957746479
+          "divineValue": 1.475372924289333
         },
         {
           "id": "transmute",
           "name": "Orb of Transmutation",
-          "value": 0.007125,
+          "value": 0.006583,
           "unit": "chaos",
-          "changePct": 17.21,
-          "volume": 26.83,
+          "changePct": -10.02,
+          "volume": 13.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9NYWdpYyIsInNjYWxlIjoxfV0/ded9e8ee63/CurrencyUpgradeToMagic.png",
-          "divineValue": 0.00002007042253521127
+          "divineValue": 0.0000185280045032367
         },
         {
           "id": "unstable-catalyst",
           "name": "Unstable Catalyst",
-          "value": 6.35,
+          "value": 9.84,
           "unit": "chaos",
-          "changePct": -24.7,
-          "volume": 412,
+          "changePct": 87.39,
+          "volume": 626.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NyaXRpY2FsTW9kaWZpZXJDYXRhbHlzdCIsInNjYWxlIjoxfV0/eebe548a38/CriticalModifierCatalyst.png",
-          "divineValue": 0.01788732394366197
+          "divineValue": 0.027694905713481564
         },
         {
           "id": "vaal",
           "name": "Vaal Orb",
-          "value": 0.4272,
+          "value": 0.5016,
           "unit": "chaos",
-          "changePct": -25.88,
-          "volume": 2317,
+          "changePct": -16.33,
+          "volume": 2154,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lWYWFsIiwic2NhbGUiOjF9XQ/593fe2e22e/CurrencyVaal.png",
-          "divineValue": 0.0012033802816901408
+          "divineValue": 0.001411764705882353
         },
         {
           "id": "veiled-chaos-orb",
           "name": "Veiled Chaos Orb",
-          "value": 76.7,
+          "value": 77.26,
           "unit": "chaos",
-          "changePct": -25.25,
-          "volume": 3055,
+          "changePct": -20.83,
+          "volume": 4198,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmVpbGVkQ2hhb3NPcmIiLCJzY2FsZSI6MX1d/fd913b89d0/VeiledChaosOrb.png",
-          "divineValue": 0.216056338028169
+          "divineValue": 0.2174500422178441
         },
         {
           "id": "warlords-exalted-orb",
           "name": "Warlord's Exalted Orb",
-          "value": 459.2,
+          "value": 635.9,
           "unit": "chaos",
-          "changePct": -9.23,
-          "volume": 1530,
+          "changePct": -6.27,
+          "volume": 2014,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9Db25xdWVyb3JPcmIiLCJzY2FsZSI6MX1d/57f0d85951/ConquerorOrb.png",
-          "divineValue": 1.2935211267605633
+          "divineValue": 1.7897551365043625
         },
         {
           "id": "whetstone",
           "name": "Blacksmith's Whetstone",
-          "value": 0.05611,
+          "value": 0.05058,
           "unit": "chaos",
-          "changePct": 21.21,
-          "volume": 129.3,
+          "changePct": 81.46,
+          "volume": 151.8,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lXZWFwb25RdWFsaXR5Iiwic2NhbGUiOjF9XQ/c9cd72719e/CurrencyWeaponQuality.png",
-          "divineValue": 0.00015805633802816902
+          "divineValue": 0.0001423585702223473
         },
         {
           "id": "wisdom",
           "name": "Scroll of Wisdom",
-          "value": 0.03118,
+          "value": 0.03028,
           "unit": "chaos",
-          "changePct": -74.79,
+          "changePct": -79.5,
           "volume": 141.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJZGVudGlmaWNhdGlvbiIsInNjYWxlIjoxfV0/c2d03ed3fd/CurrencyIdentification.png",
-          "divineValue": 0.00008783098591549295
+          "divineValue": 0.00008522375457359978
         }
       ]
     },
@@ -1036,157 +1036,197 @@
           "changePct": 0,
           "volume": 0.3333,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1NwZWVkTW9kaWZpZXJDYXRhbHlzdCIsInNjYWxlIjoxfV0/6493f34e78/SpeedModifierCatalyst.png",
-          "divineValue": 0.011580775911986104
+          "divineValue": 0.011661807580174927
         },
         {
           "id": "chaos",
           "name": "Chaos Orb",
           "value": 1,
           "unit": "chaos",
-          "changePct": -17.9,
-          "volume": 1583,
+          "changePct": -15.01,
+          "volume": 2030,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwic2NhbGUiOjF9XQ/46a2347805/CurrencyRerollRare.png",
-          "divineValue": 0.005790387955993052
+          "divineValue": 0.0058309037900874635
+        },
+        {
+          "id": "alch",
+          "name": "Orb of Alchemy",
+          "value": 0.1,
+          "unit": "chaos",
+          "changePct": 300,
+          "volume": 0.1667,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9SYXJlIiwic2NhbGUiOjF9XQ/0c72cd1d44/CurrencyUpgradeToRare.png",
+          "divineValue": 0.0005830903790087463
         },
         {
           "id": "alt",
           "name": "Orb of Alteration",
-          "value": 0.2715,
+          "value": 0.2076,
           "unit": "chaos",
-          "changePct": -14.2,
-          "volume": 172.7,
+          "changePct": 16.07,
+          "volume": 81.83,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxNYWdpYyIsInNjYWxlIjoxfV0/6308fc8ca2/CurrencyRerollMagic.png",
-          "divineValue": 0.0015720903300521136
+          "divineValue": 0.0012104956268221576
         },
         {
           "id": "ancient-orb",
           "name": "Ancient Orb",
-          "value": 2.5,
+          "value": 2.58,
           "unit": "chaos",
-          "changePct": -44.54,
-          "volume": 32.5,
+          "changePct": -51.11,
+          "volume": 31,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jaWVudE9yYiIsInNjYWxlIjoxfV0/83015d0dc9/AncientOrb.png",
-          "divineValue": 0.01447596988998263
+          "divineValue": 0.015043731778425657
         },
         {
           "id": "annul",
           "name": "Orb of Annulment",
-          "value": 17.3,
+          "value": 21.02,
           "unit": "chaos",
-          "changePct": -35.03,
-          "volume": 86.5,
+          "changePct": -34.34,
+          "volume": 199.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5udWxsT3JiIiwic2NhbGUiOjF9XQ/0858a418ac/AnnullOrb.png",
-          "divineValue": 0.1001737116386798
+          "divineValue": 0.12256559766763848
         },
         {
           "id": "aug",
           "name": "Orb of Augmentation",
-          "value": 0.1,
+          "value": 0.05,
           "unit": "chaos",
-          "changePct": 500,
-          "volume": 0.6667,
+          "changePct": 200,
+          "volume": 0.8333,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb01hZ2ljIiwic2NhbGUiOjF9XQ/d879c15321/CurrencyAddModToMagic.png",
-          "divineValue": 0.0005790387955993052
+          "divineValue": 0.0002915451895043732
         },
         {
           "id": "bauble",
           "name": "Glassblower's Bauble",
-          "value": 1.8,
+          "value": 1.88,
           "unit": "chaos",
-          "changePct": 90.57,
-          "volume": 27.67,
+          "changePct": -0.86,
+          "volume": 2.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lGbGFza1F1YWxpdHkiLCJzY2FsZSI6MX1d/59e57027e5/CurrencyFlaskQuality.png",
-          "divineValue": 0.010422698320787493
+          "divineValue": 0.01096209912536443
         },
         {
           "id": "dead-mans-sulphur",
           "name": "Dead Man's Sulphur",
-          "value": 0.00391,
+          "value": 0.005379,
           "unit": "chaos",
-          "changePct": -32.5,
-          "volume": 230.2,
+          "changePct": -16.43,
+          "volume": 285.9,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVlcHdhdGVyL0RlZXB3YXRlckNvcmFsIiwic2NhbGUiOjF9XQ/2a07cdf853/DeepwaterCoral.png",
-          "divineValue": 0.000022640416907932835
+          "divineValue": 0.000031364431486880466
         },
         {
           "id": "divine",
           "name": "Divine Orb",
-          "value": 172.7,
+          "value": 171.5,
           "unit": "chaos",
-          "changePct": 21.76,
-          "volume": 1583,
+          "changePct": 17.61,
+          "volume": 2030,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJzY2FsZSI6MX1d/ec48896769/CurrencyModValues.png",
           "divineValue": 1
         },
         {
+          "id": "eldritch-chaos-orb",
+          "name": "Eldritch Chaos Orb",
+          "value": 114.4,
+          "unit": "chaos",
+          "changePct": 0,
+          "volume": 114.4,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hDaGFvc09yYiIsInNjYWxlIjoxfV0/98091fc653/EldritchChaosOrb.png",
+          "divineValue": 0.6670553935860059
+        },
+        {
+          "id": "eldritch-orb-of-annulment",
+          "name": "Eldritch Orb of Annulment",
+          "value": 50,
+          "unit": "chaos",
+          "changePct": 39.53,
+          "volume": 16.67,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hBbm51bG1lbnRPcmIiLCJzY2FsZSI6MX1d/b58add03eb/EldritchAnnulmentOrb.png",
+          "divineValue": 0.2915451895043732
+        },
+        {
           "id": "exalted",
           "name": "Exalted Orb",
-          "value": 1.89,
+          "value": 1.95,
           "unit": "chaos",
-          "changePct": 17.09,
-          "volume": 19.17,
+          "changePct": 27.34,
+          "volume": 42,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJzY2FsZSI6MX1d/33f2656aea/CurrencyAddModToRare.png",
-          "divineValue": 0.010943833236826867
+          "divineValue": 0.011370262390670554
         },
         {
           "id": "fertile-catalyst",
           "name": "Fertile Catalyst",
-          "value": 20,
+          "value": 34.18,
           "unit": "chaos",
-          "changePct": -47.09,
-          "volume": 30,
+          "changePct": -12.36,
+          "volume": 222.2,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ZlcnRpbGVDYXRhbHlzdCIsInNjYWxlIjoxfV0/74603722ac/FertileCatalyst.png",
-          "divineValue": 0.11580775911986103
+          "divineValue": 0.1993002915451895
         },
         {
           "id": "fusing",
           "name": "Orb of Fusing",
-          "value": 0.2219,
+          "value": 0.2146,
           "unit": "chaos",
-          "changePct": 10.94,
-          "volume": 73.67,
+          "changePct": 20.66,
+          "volume": 78.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRMaW5rcyIsInNjYWxlIjoxfV0/c5e1959880/CurrencyRerollSocketLinks.png",
-          "divineValue": 0.0012848870874348581
+          "divineValue": 0.0012513119533527697
         },
         {
           "id": "grand-eldritch-ember",
           "name": "Grand Eldritch Ember",
-          "value": 14,
+          "value": 12.47,
           "unit": "chaos",
-          "changePct": 97.21,
-          "volume": 11.67,
+          "changePct": 76.64,
+          "volume": 176.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmszIiwic2NhbGUiOjF9XQ/0486f1ac82/CleansingFireOrbRank3.png",
-          "divineValue": 0.08106543138390272
+          "divineValue": 0.07271137026239068
+        },
+        {
+          "id": "grand-eldritch-ichor",
+          "name": "Grand Eldritch Ichor",
+          "value": 10,
+          "unit": "chaos",
+          "changePct": 0,
+          "volume": 85,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazMiLCJzY2FsZSI6MX1d/199f3b36f3/TangleOrbRank3.png",
+          "divineValue": 0.05830903790087463
         },
         {
           "id": "greater-eldritch-ember",
           "name": "Greater Eldritch Ember",
-          "value": 1.77,
+          "value": 1.78,
           "unit": "chaos",
-          "changePct": 283.5,
-          "volume": 29.5,
+          "changePct": 321.2,
+          "volume": 49,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsyIiwic2NhbGUiOjF9XQ/698817b93d/CleansingFireOrbRank2.png",
-          "divineValue": 0.010248986682107702
+          "divineValue": 0.010379008746355686
         },
         {
           "id": "greater-eldritch-ichor",
           "name": "Greater Eldritch Ichor",
-          "value": 1,
+          "value": 0.9024,
           "unit": "chaos",
-          "changePct": -66.98,
-          "volume": 23.33,
+          "changePct": -76.32,
+          "volume": 30.83,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazIiLCJzY2FsZSI6MX1d/689d1897c7/TangleOrbRank2.png",
-          "divineValue": 0.005790387955993052
+          "divineValue": 0.005261807580174927
         },
         {
           "id": "instilling-orb",
           "name": "Instilling Orb",
-          "value": 0.5,
+          "value": 2.04,
           "unit": "chaos",
-          "changePct": -83.33,
-          "volume": 10.67,
+          "changePct": -45.87,
+          "volume": 34.67,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza0luamVjdG9yIiwic2NhbGUiOjF9XQ/efc518b1be/FlaskInjector.png",
-          "divineValue": 0.002895193977996526
+          "divineValue": 0.011895043731778425
         },
         {
           "id": "intrinsic-catalyst",
@@ -1196,17 +1236,17 @@
           "changePct": -20,
           "volume": 7.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ludHJpbnNpY0NhdGFseXN0Iiwic2NhbGUiOjF9XQ/cea67fbce2/IntrinsicCatalyst.png",
-          "divineValue": 0.02316155182397221
+          "divineValue": 0.023323615160349854
         },
         {
           "id": "jewellers",
           "name": "Jeweller's Orb",
           "value": 0.07692,
           "unit": "chaos",
-          "changePct": 15.38,
-          "volume": 6.33,
+          "changePct": 77.51,
+          "volume": 10.17,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXROdW1iZXJzIiwic2NhbGUiOjF9XQ/ba411ff58a/CurrencyRerollSocketNumbers.png",
-          "divineValue": 0.00044539664157498555
+          "divineValue": 0.0004485131195335277
         },
         {
           "id": "lesser-eldritch-ember",
@@ -1214,169 +1254,179 @@
           "value": 1,
           "unit": "chaos",
           "changePct": 150,
-          "volume": 20.83,
+          "volume": 14.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsxIiwic2NhbGUiOjF9XQ/c7df0e0316/CleansingFireOrbRank1.png",
-          "divineValue": 0.005790387955993052
-        },
-        {
-          "id": "lesser-eldritch-ichor",
-          "name": "Lesser Eldritch Ichor",
-          "value": 1,
-          "unit": "chaos",
-          "changePct": 69.7,
-          "volume": 11.67,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazEiLCJzY2FsZSI6MX1d/70e5e53590/TangleOrbRank1.png",
-          "divineValue": 0.005790387955993052
+          "divineValue": 0.0058309037900874635
         },
         {
           "id": "orb-of-remembrance",
           "name": "Orb of Remembrance",
           "value": 150,
           "unit": "chaos",
-          "changePct": -25,
+          "changePct": 0,
           "volume": 25,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvWmFuYVBpbm5hY2xlT3JiMSIsInNjYWxlIjoxfV0/c91033d1be/ZanaPinnacleOrb1.png",
-          "divineValue": 0.8685581933989578
+          "divineValue": 0.8746355685131195
         },
         {
           "id": "regal",
           "name": "Regal Orb",
-          "value": 0.4059,
+          "value": 0.5,
           "unit": "chaos",
-          "changePct": -13.63,
-          "volume": 6.83,
+          "changePct": -41.38,
+          "volume": 0.1667,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlTWFnaWNUb1JhcmUiLCJzY2FsZSI6MX1d/0ded706f57/CurrencyUpgradeMagicToRare.png",
-          "divineValue": 0.0023503184713375798
+          "divineValue": 0.0029154518950437317
         },
         {
           "id": "regret",
           "name": "Orb of Regret",
           "value": 1.5,
           "unit": "chaos",
-          "changePct": -25,
-          "volume": 22.5,
+          "changePct": -20.41,
+          "volume": 30,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQYXNzaXZlU2tpbGxSZWZ1bmQiLCJzY2FsZSI6MX1d/32d499f562/CurrencyPassiveSkillRefund.png",
-          "divineValue": 0.008685581933989578
+          "divineValue": 0.008746355685131196
         },
         {
           "id": "scour",
           "name": "Orb of Scouring",
-          "value": 0.7059,
+          "value": 0.6757,
           "unit": "chaos",
-          "changePct": -52.94,
-          "volume": 4,
+          "changePct": 3.01,
+          "volume": 4.17,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lDb252ZXJ0VG9Ob3JtYWwiLCJzY2FsZSI6MX1d/a0981d67fe/CurrencyConvertToNormal.png",
-          "divineValue": 0.004087434858135495
+          "divineValue": 0.003939941690962099
         },
         {
           "id": "scrap",
           "name": "Armourer's Scrap",
-          "value": 0.6667,
+          "value": 0.41,
           "unit": "chaos",
-          "changePct": -4.76,
-          "volume": 3.33,
+          "changePct": -41.43,
+          "volume": 6.83,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBcm1vdXJRdWFsaXR5Iiwic2NhbGUiOjF9XQ/fc4e26afbc/CurrencyArmourQuality.png",
-          "divineValue": 0.0038604516502605676
+          "divineValue": 0.00239067055393586
+        },
+        {
+          "id": "tainted-orb-of-fusing",
+          "name": "Tainted Orb of Fusing",
+          "value": 60,
+          "unit": "chaos",
+          "changePct": 53.85,
+          "volume": 10,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU9yYk9mRnVzaW5nIiwic2NhbGUiOjF9XQ/845f3c20ed/HellscapeOrbOfFusing.png",
+          "divineValue": 0.3498542274052478
         },
         {
           "id": "vivid-lifeforce",
           "name": "Vivid Crystallised Lifeforce",
-          "value": 0.03909,
+          "value": 0.03793,
           "unit": "chaos",
-          "changePct": -27.08,
-          "volume": 172.7,
+          "changePct": -28.2,
+          "volume": 257.3,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9WaXZpZExpZmVmb3JjZSIsInNjYWxlIjoxfV0/a355b8a5a2/VividLifeforce.png",
-          "divineValue": 0.00022634626519976839
+          "divineValue": 0.00022116618075801748
         },
         {
           "id": "wild-lifeforce",
           "name": "Wild Crystallised Lifeforce",
-          "value": 0.04545,
+          "value": 0.04036,
           "unit": "chaos",
-          "changePct": 22.18,
-          "volume": 5.83,
+          "changePct": -18.82,
+          "volume": 114.4,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9XaWxkTGlmZWZvcmNlIiwic2NhbGUiOjF9XQ/e3d0b372b0/WildLifeforce.png",
-          "divineValue": 0.0002631731325998842
+          "divineValue": 0.00023533527696793002
         },
         {
           "id": "chrome",
           "name": "Chromatic Orb",
-          "value": 1.23,
+          "value": 1.32,
           "unit": "chaos",
-          "changePct": -58.32,
-          "volume": 4.5,
+          "changePct": -52.5,
+          "volume": 16.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRDb2xvdXJzIiwic2NhbGUiOjF9XQ/19c8ddae20/CurrencyRerollSocketColours.png",
-          "divineValue": 0.007122177185871454
+          "divineValue": 0.007696793002915452
         },
         {
           "id": "fracturing-orb",
           "name": "Fracturing Orb",
-          "value": 575.5,
+          "value": 707.6,
           "unit": "chaos",
-          "changePct": 25,
-          "volume": 863.3,
+          "changePct": 57.14,
+          "volume": 943.4,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRnJhY3R1cmluZ09yYkNvbWJpbmVkIiwic2NhbGUiOjF9XQ/3fb18e8a5b/FracturingOrbCombined.png",
-          "divineValue": 3.3323682686740015
+          "divineValue": 4.125947521865889
+        },
+        {
+          "id": "orb-of-conflict",
+          "name": "Orb of Conflict",
+          "value": 343.1,
+          "unit": "chaos",
+          "changePct": 100,
+          "volume": 114.4,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ29uZmxpY3RPcmJSYW5rMSIsInNjYWxlIjoxfV0/7e02c990fc/ConflictOrbRank1.png",
+          "divineValue": 2.000583090379009
         },
         {
           "id": "primal-lifeforce",
           "name": "Primal Crystallised Lifeforce",
-          "value": 0.0415,
+          "value": 0.04184,
           "unit": "chaos",
-          "changePct": 8.19,
-          "volume": 143.9,
+          "changePct": 9.89,
+          "volume": 85.77,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9QcmltYWxMaWZlZm9yY2UiLCJzY2FsZSI6MX1d/c498cdfd7f/PrimalLifeforce.png",
-          "divineValue": 0.00024030110017371167
-        },
-        {
-          "id": "shapers-exalted-orb",
-          "name": "Shaper's Exalted Orb",
-          "value": 690.6,
-          "unit": "chaos",
-          "changePct": -20,
-          "volume": 230.2,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvU2hhcGVyRXhhbHRlZE9yYiIsInNjYWxlIjoxfV0/a8cac8676e/ShaperExaltedOrb.png",
-          "divineValue": 3.998841922408802
+          "divineValue": 0.0002439650145772595
         },
         {
           "id": "tempering-catalyst",
           "name": "Tempering Catalyst",
-          "value": 21.58,
+          "value": 21.44,
           "unit": "chaos",
           "changePct": 0,
-          "volume": 57.55,
+          "volume": 57.18,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RlbXBlcmluZ0NhdGFseXN0Iiwic2NhbGUiOjF9XQ/6bf69c356e/TemperingCatalyst.png",
-          "divineValue": 0.12495657209033005
+          "divineValue": 0.12501457725947523
         },
         {
           "id": "veiled-exalted-orb",
           "name": "Veiled Exalted Orb",
-          "value": 1209,
+          "value": 1201,
           "unit": "chaos",
           "changePct": 40,
-          "volume": 201.4,
+          "volume": 200.1,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmVpbGVkRXhhbHRlZE9yYiIsInNjYWxlIjoxfV0/976e8acb0b/VeiledExaltedOrb.png",
-          "divineValue": 7.0005790387956
+          "divineValue": 7.002915451895044
+        },
+        {
+          "id": "flesh-of-xesht",
+          "name": "Flesh of Xesht",
+          "value": 400.2,
+          "unit": "chaos",
+          "changePct": 133.3,
+          "volume": 200.1,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hheXVsYS9Db3JlQnJlYWNoQ3VycmVuY3kiLCJzY2FsZSI6MX1d/32fda5c220/CoreBreachCurrency.png",
+          "divineValue": 2.333527696793003
         },
         {
           "id": "gcp",
           "name": "Gemcutter's Prism",
-          "value": 2.42,
+          "value": 2.48,
           "unit": "chaos",
-          "changePct": -10.33,
-          "volume": 92.33,
+          "changePct": -16.79,
+          "volume": 73.17,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lHZW1RdWFsaXR5Iiwic2NhbGUiOjF9XQ/dbe9678a28/CurrencyGemQuality.png",
-          "divineValue": 0.014012738853503185
+          "divineValue": 0.014460641399416909
         },
         {
           "id": "noxious-catalyst",
           "name": "Noxious Catalyst",
           "value": 2,
           "unit": "chaos",
-          "changePct": -30.43,
+          "changePct": -36.67,
           "volume": 7.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NoYW9zUGh5c2ljYWxDYXRhbHlzdCIsInNjYWxlIjoxfV0/2b886f8343/ChaosPhysicalCatalyst.png",
-          "divineValue": 0.011580775911986104
+          "divineValue": 0.011661807580174927
         },
         {
           "id": "prismatic-catalyst",
@@ -1386,7 +1436,97 @@
           "changePct": -20.91,
           "volume": 23.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1ByaXNtYXRpY0NhdGFseXN0Iiwic2NhbGUiOjF9XQ/1e725fd26d/PrismaticCatalyst.png",
-          "divineValue": 0.1360741169658367
+          "divineValue": 0.13702623906705538
+        },
+        {
+          "id": "stacked-deck",
+          "name": "Stacked Deck",
+          "value": 2.84,
+          "unit": "chaos",
+          "changePct": -8.56,
+          "volume": 85.77,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9EZWNrIiwic2NhbGUiOjF9XQ/8e83aea79a/Deck.png",
+          "divineValue": 0.016559766763848394
+        },
+        {
+          "id": "tailoring-orb",
+          "name": "Tailoring Orb",
+          "value": 100,
+          "unit": "chaos",
+          "changePct": 0,
+          "volume": 16.67,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudFdlYXBvbkN1cnJlbmN5Iiwic2NhbGUiOjF9XQ/d417654a23/DivineEnchantWeaponCurrency.png",
+          "divineValue": 0.5830903790087464
+        },
+        {
+          "id": "tainted-catalyst",
+          "name": "Tainted Catalyst",
+          "value": 17,
+          "unit": "chaos",
+          "changePct": 9.85,
+          "volume": 56.67,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RhaW50ZWRDYXRhbHlzdCIsInNjYWxlIjoxfV0/5ce364bd70/TaintedCatalyst.png",
+          "divineValue": 0.09912536443148688
+        },
+        {
+          "id": "tainted-divine-orb",
+          "name": "Volatile Vaal Orb",
+          "value": 1201,
+          "unit": "chaos",
+          "changePct": 27.27,
+          "volume": 400.2,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVm9sYXRpbGVWYWFsT3JiIiwic2NhbGUiOjF9XQ/9bcdda2c63/VolatileVaalOrb.png",
+          "divineValue": 7.002915451895044
+        },
+        {
+          "id": "transmute",
+          "name": "Orb of Transmutation",
+          "value": 0.05,
+          "unit": "chaos",
+          "changePct": 150,
+          "volume": 0.1667,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9NYWdpYyIsInNjYWxlIjoxfV0/ded9e8ee63/CurrencyUpgradeToMagic.png",
+          "divineValue": 0.0002915451895043732
+        },
+        {
+          "id": "veiled-chaos-orb",
+          "name": "Veiled Chaos Orb",
+          "value": 33.33,
+          "unit": "chaos",
+          "changePct": 122.2,
+          "volume": 50,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmVpbGVkQ2hhb3NPcmIiLCJzY2FsZSI6MX1d/fd913b89d0/VeiledChaosOrb.png",
+          "divineValue": 0.19434402332361514
+        },
+        {
+          "id": "warlords-exalted-orb",
+          "name": "Warlord's Exalted Orb",
+          "value": 857.7,
+          "unit": "chaos",
+          "changePct": 0,
+          "volume": 142.9,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9Db25xdWVyb3JPcmIiLCJzY2FsZSI6MX1d/57f0d85951/ConquerorOrb.png",
+          "divineValue": 5.001166180758018
+        },
+        {
+          "id": "whetstone",
+          "name": "Blacksmith's Whetstone",
+          "value": 0.15,
+          "unit": "chaos",
+          "changePct": -40,
+          "volume": 0.5,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lXZWFwb25RdWFsaXR5Iiwic2NhbGUiOjF9XQ/c9cd72719e/CurrencyWeaponQuality.png",
+          "divineValue": 0.0008746355685131195
+        },
+        {
+          "id": "lesser-eldritch-ichor",
+          "name": "Lesser Eldritch Ichor",
+          "value": 1,
+          "unit": "chaos",
+          "changePct": 69.77,
+          "volume": 6.67,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazEiLCJzY2FsZSI6MX1d/70e5e53590/TangleOrbRank1.png",
+          "divineValue": 0.0058309037900874635
         },
         {
           "id": "sacred-orb",
@@ -1396,57 +1536,7 @@
           "changePct": -44.83,
           "volume": 3.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2FjcmVkT3JiIiwic2NhbGUiOjF9XQ/0380fd0dba/SacredOrb.png",
-          "divineValue": 0.11580775911986103
-        },
-        {
-          "id": "stacked-deck",
-          "name": "Stacked Deck",
-          "value": 2.86,
-          "unit": "chaos",
-          "changePct": -6.04,
-          "volume": 86.33,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9EZWNrIiwic2NhbGUiOjF9XQ/8e83aea79a/Deck.png",
-          "divineValue": 0.016560509554140127
-        },
-        {
-          "id": "tainted-chaos-orb",
-          "name": "Tainted Chaos Orb",
-          "value": 26,
-          "unit": "chaos",
-          "changePct": 0,
-          "volume": 4.33,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNoYW9zT3JiIiwic2NhbGUiOjF9XQ/64d1f4db99/HellscapeChaosOrb.png",
-          "divineValue": 0.15055008685581936
-        },
-        {
-          "id": "veiled-chaos-orb",
-          "name": "Veiled Chaos Orb",
-          "value": 25,
-          "unit": "chaos",
-          "changePct": 66.67,
-          "volume": 4.17,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmVpbGVkQ2hhb3NPcmIiLCJzY2FsZSI6MX1d/fd913b89d0/VeiledChaosOrb.png",
-          "divineValue": 0.1447596988998263
-        },
-        {
-          "id": "orb-of-unmaking",
-          "name": "Orb of Unmaking",
-          "value": 1.09,
-          "unit": "chaos",
-          "changePct": 252.6,
-          "volume": 21,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVncmV0T3JiIiwic2NhbGUiOjF9XQ/beae1b00c7/RegretOrb.png",
-          "divineValue": 0.006311522872032427
-        },
-        {
-          "id": "turbulent-catalyst",
-          "name": "Turbulent Catalyst",
-          "value": 2.8,
-          "unit": "chaos",
-          "changePct": 40,
-          "volume": 7,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1R1cmJ1bGVudENhdGFseXN0Iiwic2NhbGUiOjF9XQ/1f49d03e58/TurbulentCatalyst.png",
-          "divineValue": 0.016213086276780544
+          "divineValue": 0.11661807580174927
         }
       ]
     },
@@ -1458,190 +1548,200 @@
           "name": "Blessed Orb",
           "value": 0.5,
           "unit": "chaos",
-          "changePct": 400,
-          "volume": 16,
+          "changePct": -72.18,
+          "volume": 9.83,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJbXBsaWNpdE1vZCIsInNjYWxlIjoxfV0/48e700cc20/CurrencyImplicitMod.png",
-          "divineValue": 0.0006697923643670462
+          "divineValue": 0.0006586747464102226
         },
         {
           "id": "chaos",
           "name": "Chaos Orb",
           "value": 1,
           "unit": "chaos",
-          "changePct": 2.95,
-          "volume": 77759,
+          "changePct": 0.6,
+          "volume": 78563,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwic2NhbGUiOjF9XQ/46a2347805/CurrencyRerollRare.png",
-          "divineValue": 0.0013395847287340924
+          "divineValue": 0.0013173494928204453
         },
         {
           "id": "abrasive-catalyst",
           "name": "Abrasive Catalyst",
-          "value": 8.4,
+          "value": 7.13,
           "unit": "chaos",
-          "changePct": -10.58,
-          "volume": 21,
+          "changePct": -21.4,
+          "volume": 17.83,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0FicmFzaXZlQ2F0YWx5c3QiLCJzY2FsZSI6MX1d/aca49c3cc0/AbrasiveCatalyst.png",
-          "divineValue": 0.011252511721366376
+          "divineValue": 0.009392701883809773
         },
         {
           "id": "alch",
           "name": "Orb of Alchemy",
-          "value": 0.003988,
+          "value": 0.002965,
           "unit": "chaos",
-          "changePct": 692.9,
-          "volume": 34.17,
+          "changePct": -40.7,
+          "volume": 17.17,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9SYXJlIiwic2NhbGUiOjF9XQ/0c72cd1d44/CurrencyUpgradeToRare.png",
-          "divineValue": 0.0000053422638981915605
+          "divineValue": 0.000003905941246212621
         },
         {
           "id": "alt",
           "name": "Orb of Alteration",
-          "value": 0.2458,
+          "value": 0.2467,
           "unit": "chaos",
-          "changePct": 9.09,
-          "volume": 3981,
+          "changePct": -1.8,
+          "volume": 2151,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxNYWdpYyIsInNjYWxlIjoxfV0/6308fc8ca2/CurrencyRerollMagic.png",
-          "divineValue": 0.0003292699263228399
+          "divineValue": 0.0003249901198788038
         },
         {
           "id": "ancient-orb",
           "name": "Ancient Orb",
-          "value": 29.91,
+          "value": 15.81,
           "unit": "chaos",
-          "changePct": -3.12,
-          "volume": 11944,
+          "changePct": -4.17,
+          "volume": 885.6,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jaWVudE9yYiIsInNjYWxlIjoxfV0/83015d0dc9/AncientOrb.png",
-          "divineValue": 0.040066979236436706
+          "divineValue": 0.02082729548149124
         },
         {
           "id": "annul",
           "name": "Orb of Annulment",
-          "value": 45.38,
+          "value": 47.3,
           "unit": "chaos",
-          "changePct": -14.72,
-          "volume": 25256,
+          "changePct": -7.01,
+          "volume": 15687,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5udWxsT3JiIiwic2NhbGUiOjF9XQ/0858a418ac/AnnullOrb.png",
-          "divineValue": 0.06079035498995312
+          "divineValue": 0.062310631010407055
         },
         {
           "id": "aug",
           "name": "Orb of Augmentation",
           "value": 0.0687,
           "unit": "chaos",
-          "changePct": -3.82,
+          "changePct": 384.8,
           "volume": 16.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb01hZ2ljIiwic2NhbGUiOjF9XQ/d879c15321/CurrencyAddModToMagic.png",
-          "divineValue": 0.00009202947086403214
+          "divineValue": 0.00009050191015676458
         },
         {
           "id": "bauble",
           "name": "Glassblower's Bauble",
-          "value": 0.1098,
+          "value": 0.09355,
           "unit": "chaos",
-          "changePct": -91.95,
-          "volume": 45.5,
+          "changePct": -84.31,
+          "volume": 37,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lGbGFza1F1YWxpdHkiLCJzY2FsZSI6MX1d/59e57027e5/CurrencyFlaskQuality.png",
-          "divineValue": 0.00014708640321500335
+          "divineValue": 0.00012323804505335264
         },
         {
           "id": "chance",
           "name": "Orb of Chance",
-          "value": 0.3732,
+          "value": 0.3374,
           "unit": "chaos",
-          "changePct": -95,
-          "volume": 1244,
+          "changePct": -64.44,
+          "volume": 759.1,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlUmFuZG9tbHkiLCJzY2FsZSI6MX1d/a3f9bf0917/CurrencyUpgradeRandomly.png",
-          "divineValue": 0.0004999330207635632
+          "divineValue": 0.0004444737188776182
         },
         {
           "id": "divine",
           "name": "Divine Orb",
-          "value": 746.5,
+          "value": 759.1,
           "unit": "chaos",
-          "changePct": -2.9,
-          "volume": 77759,
+          "changePct": -0.6,
+          "volume": 78563,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJzY2FsZSI6MX1d/ec48896769/CurrencyModValues.png",
           "divineValue": 1
         },
         {
           "id": "elders-exalted-orb",
           "name": "Elder's Exalted Orb",
-          "value": 80,
+          "value": 303.6,
           "unit": "chaos",
-          "changePct": -54.55,
-          "volume": 40,
+          "changePct": -0.97,
+          "volume": 506,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvRWxkZXJFeGFsdGVkT3JiIiwic2NhbGUiOjF9XQ/06f31a048c/ElderExaltedOrb.png",
-          "divineValue": 0.1071667782987274
+          "divineValue": 0.3999473060202872
         },
         {
           "id": "eldritch-chaos-orb",
           "name": "Eldritch Chaos Orb",
-          "value": 173.5,
+          "value": 159.3,
           "unit": "chaos",
-          "changePct": 12.15,
-          "volume": 5350,
+          "changePct": -10.78,
+          "volume": 5946,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hDaGFvc09yYiIsInNjYWxlIjoxfV0/98091fc653/EldritchChaosOrb.png",
-          "divineValue": 0.23241795043536503
+          "divineValue": 0.20985377420629694
         },
         {
           "id": "eldritch-exalted-orb",
           "name": "Eldritch Exalted Orb",
-          "value": 31.63,
+          "value": 39,
           "unit": "chaos",
-          "changePct": 157.1,
-          "volume": 268.8,
+          "changePct": 118.7,
+          "volume": 65,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hFeGFsdGVkT3JiIiwic2NhbGUiOjF9XQ/2da131e652/EldritchExaltedOrb.png",
-          "divineValue": 0.042371064969859346
+          "divineValue": 0.05137663021999737
         },
         {
           "id": "eldritch-orb-of-annulment",
           "name": "Eldritch Orb of Annulment",
-          "value": 140.9,
+          "value": 165.1,
           "unit": "chaos",
-          "changePct": -20.24,
-          "volume": 9580,
+          "changePct": 2.27,
+          "volume": 13790,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hBbm51bG1lbnRPcmIiLCJzY2FsZSI6MX1d/b58add03eb/EldritchAnnulmentOrb.png",
-          "divineValue": 0.18874748827863363
+          "divineValue": 0.2174944012646555
         },
         {
           "id": "enkindling-orb",
           "name": "Enkindling Orb",
-          "value": 5.88,
+          "value": 4.68,
           "unit": "chaos",
-          "changePct": 22.05,
-          "volume": 248.8,
+          "changePct": -53.2,
+          "volume": 138.8,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza1BsYXRlIiwic2NhbGUiOjF9XQ/7c1a584a8d/FlaskPlate.png",
-          "divineValue": 0.007876758204956463
+          "divineValue": 0.006165195626399683
         },
         {
           "id": "exalted",
           "name": "Exalted Orb",
-          "value": 14.01,
+          "value": 12.7,
           "unit": "chaos",
-          "changePct": 0.34,
-          "volume": 5225,
+          "changePct": -8.74,
+          "volume": 128156,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJzY2FsZSI6MX1d/33f2656aea/CurrencyAddModToRare.png",
-          "divineValue": 0.018767582049564635
+          "divineValue": 0.016730338558819655
         },
         {
           "id": "exceptional-eldritch-ichor",
           "name": "Exceptional Eldritch Ichor",
-          "value": 190.6,
+          "value": 1069,
           "unit": "chaos",
-          "changePct": -6.11,
-          "volume": 603.7,
+          "changePct": -9.01,
+          "volume": 13537,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazQiLCJzY2FsZSI6MX1d/dcf73ecd8e/TangleOrbRank4.png",
-          "divineValue": 0.255324849296718
+          "divineValue": 1.408246607825056
         },
         {
           "id": "fertile-catalyst",
           "name": "Fertile Catalyst",
-          "value": 63.62,
+          "value": 68.49,
           "unit": "chaos",
-          "changePct": -15.63,
-          "volume": 1866,
+          "changePct": -5.26,
+          "volume": 1518,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ZlcnRpbGVDYXRhbHlzdCIsInNjYWxlIjoxfV0/74603722ac/FertileCatalyst.png",
-          "divineValue": 0.08522438044206296
+          "divineValue": 0.09022526676327229
+        },
+        {
+          "id": "fracturing-orb",
+          "name": "Fracturing Orb",
+          "value": 1005,
+          "unit": "chaos",
+          "changePct": 9.5,
+          "volume": 27959,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRnJhY3R1cmluZ09yYkNvbWJpbmVkIiwic2NhbGUiOjF9XQ/3fb18e8a5b/FracturingOrbCombined.png",
+          "divineValue": 1.3239362402845474
         },
         {
           "id": "fracturing-shard",
@@ -1651,137 +1751,127 @@
           "changePct": 197.9,
           "volume": 188.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRnJhY3R1cmluZ09yYlNoYXJkIiwic2NhbGUiOjF9XQ/34fdc6a813/FracturingOrbShard.png",
-          "divineValue": 0.07981245813797723
+          "divineValue": 0.07848768278224212
         },
         {
           "id": "fusing",
           "name": "Orb of Fusing",
-          "value": 0.266,
+          "value": 0.1165,
           "unit": "chaos",
-          "changePct": -28.66,
-          "volume": 1991,
+          "changePct": -25.95,
+          "volume": 712.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRMaW5rcyIsInNjYWxlIjoxfV0/c5e1959880/CurrencyRerollSocketLinks.png",
-          "divineValue": 0.00035632953784326863
+          "divineValue": 0.00015347121591358188
         },
         {
           "id": "grand-eldritch-ember",
           "name": "Grand Eldritch Ember",
-          "value": 54.09,
+          "value": 58.94,
           "unit": "chaos",
-          "changePct": -9.66,
-          "volume": 21275,
+          "changePct": 5.01,
+          "volume": 17585,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmszIiwic2NhbGUiOjF9XQ/0486f1ac82/CleansingFireOrbRank3.png",
-          "divineValue": 0.07245813797722707
+          "divineValue": 0.07764457910683704
         },
         {
           "id": "grand-eldritch-ichor",
           "name": "Grand Eldritch Ichor",
-          "value": 13.75,
+          "value": 10.52,
           "unit": "chaos",
-          "changePct": 11.2,
-          "volume": 3110,
+          "changePct": -16.65,
+          "volume": 7211,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazMiLCJzY2FsZSI6MX1d/199f3b36f3/TangleOrbRank3.png",
-          "divineValue": 0.018419290020093772
-        },
-        {
-          "id": "greater-eldritch-ember",
-          "name": "Greater Eldritch Ember",
-          "value": 4.39,
-          "unit": "chaos",
-          "changePct": -35.29,
-          "volume": 124.4,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsyIiwic2NhbGUiOjF9XQ/698817b93d/CleansingFireOrbRank2.png",
-          "divineValue": 0.005880776959142665
+          "divineValue": 0.013858516664471084
         },
         {
           "id": "greater-eldritch-ichor",
           "name": "Greater Eldritch Ichor",
-          "value": 1.87,
+          "value": 1.96,
           "unit": "chaos",
-          "changePct": -16.28,
-          "volume": 124.4,
+          "changePct": -1.21,
+          "volume": 81.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazIiLCJzY2FsZSI6MX1d/689d1897c7/TangleOrbRank2.png",
-          "divineValue": 0.002505023442732753
+          "divineValue": 0.0025820050059280728
         },
         {
           "id": "imbued-catalyst",
           "name": "Imbued Catalyst",
-          "value": 3.61,
+          "value": 4,
           "unit": "chaos",
-          "changePct": 1704,
-          "volume": 13.83,
+          "changePct": 1900,
+          "volume": 13.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ltYnVlZENhdGFseXN0Iiwic2NhbGUiOjF9XQ/cce071aa45/ImbuedCatalyst.png",
-          "divineValue": 0.004835900870730074
+          "divineValue": 0.005269397971281781
         },
         {
           "id": "instilling-orb",
           "name": "Instilling Orb",
-          "value": 0.7465,
+          "value": 0.7591,
           "unit": "chaos",
           "changePct": -20,
-          "volume": 248.8,
+          "volume": 253,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza0luamVjdG9yIiwic2NhbGUiOjF9XQ/efc518b1be/FlaskInjector.png",
           "divineValue": 0.001
         },
         {
           "id": "intrinsic-catalyst",
           "name": "Intrinsic Catalyst",
-          "value": 0.8925,
+          "value": 0.1543,
           "unit": "chaos",
-          "changePct": -70.88,
-          "volume": 191,
+          "changePct": -99.05,
+          "volume": 32.17,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ludHJpbnNpY0NhdGFseXN0Iiwic2NhbGUiOjF9XQ/cea67fbce2/IntrinsicCatalyst.png",
-          "divineValue": 0.0011955793703951774
+          "divineValue": 0.0002032670267421947
         },
         {
           "id": "jewellers",
           "name": "Jeweller's Orb",
-          "value": 0.04723,
+          "value": 0.04689,
           "unit": "chaos",
-          "changePct": 194,
-          "volume": 51.83,
+          "changePct": 45.35,
+          "volume": 42.17,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXROdW1iZXJzIiwic2NhbGUiOjF9XQ/ba411ff58a/CurrencyRerollSocketNumbers.png",
-          "divineValue": 0.00006326858673811119
+          "divineValue": 0.00006177051771835068
         },
         {
           "id": "lesser-eldritch-ember",
           "name": "Lesser Eldritch Ember",
-          "value": 0.1,
+          "value": 0.8425,
           "unit": "chaos",
-          "changePct": -32.2,
-          "volume": 7.33,
+          "changePct": -22.2,
+          "volume": 126.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsxIiwic2NhbGUiOjF9XQ/c7df0e0316/CleansingFireOrbRank1.png",
-          "divineValue": 0.00013395847287340926
+          "divineValue": 0.0011098669477012252
         },
         {
           "id": "lesser-eldritch-ichor",
           "name": "Lesser Eldritch Ichor",
-          "value": 0.5385,
+          "value": 1.19,
           "unit": "chaos",
-          "changePct": -94.62,
-          "volume": 23.33,
+          "changePct": 56.25,
+          "volume": 126.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazEiLCJzY2FsZSI6MX1d/70e5e53590/TangleOrbRank1.png",
-          "divineValue": 0.0007213663764233087
+          "divineValue": 0.0015676458964563298
         },
         {
           "id": "mavens-chisel-of-avarice",
           "name": "Maven's Chisel of Avarice",
-          "value": 463.6,
+          "value": 446,
           "unit": "chaos",
-          "changePct": -18.38,
-          "volume": 7340,
+          "changePct": -27.57,
+          "volume": 7211,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWw0Iiwic2NhbGUiOjF9XQ/d878502dc7/MavenChisel4.png",
-          "divineValue": 0.6210314802411253
+          "divineValue": 0.5875378737979186
         },
         {
           "id": "mavens-chisel-of-scarabs",
           "name": "Maven's Chisel of Scarabs",
-          "value": 56,
+          "value": 50,
           "unit": "chaos",
-          "changePct": -29.56,
-          "volume": 46.67,
+          "changePct": -16.67,
+          "volume": 66.67,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwzIiwic2NhbGUiOjF9XQ/a7a9ac8f01/MavenChisel3.png",
-          "divineValue": 0.07501674480910918
+          "divineValue": 0.06586747464102226
         },
         {
           "id": "orb-of-binding",
@@ -1791,37 +1881,27 @@
           "changePct": 900,
           "volume": 0.1667,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmluZGluZ09yYiIsInNjYWxlIjoxfV0/aac9579bd2/BindingOrb.png",
-          "divineValue": 0.0013395847287340924
+          "divineValue": 0.0013173494928204453
         },
         {
           "id": "orb-of-conflict",
           "name": "Orb of Conflict",
-          "value": 1891,
+          "value": 1973,
           "unit": "chaos",
-          "changePct": -0.01,
-          "volume": 62083,
+          "changePct": 3.77,
+          "volume": 81220,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ29uZmxpY3RPcmJSYW5rMSIsInNjYWxlIjoxfV0/7e02c990fc/ConflictOrbRank1.png",
-          "divineValue": 2.5331547220361688
-        },
-        {
-          "id": "orb-of-remembrance",
-          "name": "Orb of Remembrance",
-          "value": 933.1,
-          "unit": "chaos",
-          "changePct": 0.59,
-          "volume": 1244,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvWmFuYVBpbm5hY2xlT3JiMSIsInNjYWxlIjoxfV0/c91033d1be/ZanaPinnacleOrb1.png",
-          "divineValue": 1.2499665103817816
+          "divineValue": 2.5991305493347383
         },
         {
           "id": "orb-of-unmaking",
           "name": "Orb of Unmaking",
-          "value": 2.26,
+          "value": 2.3,
           "unit": "chaos",
           "changePct": 6.06,
-          "volume": 373.2,
+          "volume": 379.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVncmV0T3JiIiwic2NhbGUiOjF9XQ/beae1b00c7/RegretOrb.png",
-          "divineValue": 0.0030274614869390485
+          "divineValue": 0.0030299038334870238
         },
         {
           "id": "orb-of-unravelling",
@@ -1831,227 +1911,237 @@
           "changePct": 0,
           "volume": 16.67,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvWmFuYVBpbm5hY2xlT3JiMiIsInNjYWxlIjoxfV0/68c2c8e04c/ZanaPinnacleOrb2.png",
-          "divineValue": 0.13395847287340926
+          "divineValue": 0.13173494928204452
         },
         {
           "id": "primal-lifeforce",
           "name": "Primal Crystallised Lifeforce",
-          "value": 0.0667,
+          "value": 0.06819,
           "unit": "chaos",
-          "changePct": -18.36,
-          "volume": 17045,
+          "changePct": -15.74,
+          "volume": 11133,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9QcmltYWxMaWZlZm9yY2UiLCJzY2FsZSI6MX1d/c498cdfd7f/PrimalLifeforce.png",
-          "divineValue": 0.00008935030140656396
+          "divineValue": 0.00008983006191542615
         },
         {
           "id": "redeemers-exalted-orb",
           "name": "Redeemer's Exalted Orb",
-          "value": 702.6,
+          "value": 759.1,
           "unit": "chaos",
-          "changePct": -5.88,
-          "volume": 1991,
+          "changePct": 20,
+          "volume": 632.6,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9FeXJpZU9yYiIsInNjYWxlIjoxfV0/8ec9b52d65/EyrieOrb.png",
-          "divineValue": 0.9411922304085734
+          "divineValue": 1
         },
         {
           "id": "regal",
           "name": "Regal Orb",
           "value": 0.3333,
           "unit": "chaos",
-          "changePct": -7.2,
+          "changePct": -37.33,
           "volume": 16.67,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlTWFnaWNUb1JhcmUiLCJzY2FsZSI6MX1d/0ded706f57/CurrencyUpgradeMagicToRare.png",
-          "divineValue": 0.00044648359008707297
+          "divineValue": 0.00043907258595705435
         },
         {
           "id": "regret",
           "name": "Orb of Regret",
-          "value": 1.66,
+          "value": 1.83,
           "unit": "chaos",
-          "changePct": -22.15,
-          "volume": 1617,
+          "changePct": 16.85,
+          "volume": 1265,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQYXNzaXZlU2tpbGxSZWZ1bmQiLCJzY2FsZSI6MX1d/32d499f562/CurrencyPassiveSkillRefund.png",
-          "divineValue": 0.0022237106496985934
+          "divineValue": 0.002410749571861415
         },
         {
           "id": "sacred-lifeforce",
           "name": "Sacred Crystallised Lifeforce",
-          "value": 194.7,
+          "value": 199.8,
           "unit": "chaos",
-          "changePct": -7.09,
-          "volume": 1493,
+          "changePct": -21.05,
+          "volume": 632.6,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9TYWNyZWRMaWZlZm9yY2UiLCJzY2FsZSI6MX1d/edfba3c893/SacredLifeforce.png",
-          "divineValue": 0.26081714668452777
+          "divineValue": 0.26320642866552496
         },
         {
           "id": "sandswept-lifeforce",
           "name": "Crystallised Rancour",
-          "value": 248.8,
+          "value": 253,
           "unit": "chaos",
-          "changePct": -17.85,
-          "volume": 746.5,
+          "changePct": -4.13,
+          "volume": 885.6,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9GYXJpZHVuTGlmZWZvcmNlIiwic2NhbGUiOjF9XQ/8852b4c459/FaridunLifeforce.png",
-          "divineValue": 0.3332886805090422
+          "divineValue": 0.3332894216835726
         },
         {
           "id": "scour",
           "name": "Orb of Scouring",
-          "value": 1.78,
+          "value": 1.71,
           "unit": "chaos",
-          "changePct": 68.37,
-          "volume": 9829,
+          "changePct": -10.85,
+          "volume": 5693,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lDb252ZXJ0VG9Ob3JtYWwiLCJzY2FsZSI6MX1d/a0981d67fe/CurrencyConvertToNormal.png",
-          "divineValue": 0.0023844608171466847
+          "divineValue": 0.002252667632722961
         },
         {
           "id": "scrap",
           "name": "Armourer's Scrap",
-          "value": 0.1152,
+          "value": 0.1169,
           "unit": "chaos",
-          "changePct": 108.7,
-          "volume": 26.83,
+          "changePct": 302.9,
+          "volume": 24.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBcm1vdXJRdWFsaXR5Iiwic2NhbGUiOjF9XQ/fc4e26afbc/CurrencyArmourQuality.png",
-          "divineValue": 0.00015432016075016744
+          "divineValue": 0.00015399815571071006
         },
         {
           "id": "shapers-exalted-orb",
           "name": "Shaper's Exalted Orb",
-          "value": 373.2,
+          "value": 483.3,
           "unit": "chaos",
-          "changePct": 0,
-          "volume": 248.8,
+          "changePct": 103.6,
+          "volume": 241.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvU2hhcGVyRXhhbHRlZE9yYiIsInNjYWxlIjoxfV0/a8cac8676e/ShaperExaltedOrb.png",
-          "divineValue": 0.4999330207635633
+          "divineValue": 0.6366750098801212
         },
         {
           "id": "tainted-exalted-orb",
           "name": "Tainted Exalted Orb",
-          "value": 2239,
+          "value": 2362,
           "unit": "chaos",
-          "changePct": 0,
-          "volume": 2239,
+          "changePct": 3.7,
+          "volume": 3542,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUV4YWx0ZWRPcmIiLCJzY2FsZSI6MX1d/68a0ea3020/HellscapeExaltedOrb.png",
-          "divineValue": 2.9993302076356327
+          "divineValue": 3.1115795020418915
         },
         {
           "id": "tainted-orb-of-fusing",
           "name": "Tainted Orb of Fusing",
-          "value": 31.37,
+          "value": 34.5,
           "unit": "chaos",
-          "changePct": -10.73,
-          "volume": 622.1,
+          "changePct": -3.03,
+          "volume": 253,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU9yYk9mRnVzaW5nIiwic2NhbGUiOjF9XQ/845f3c20ed/HellscapeOrbOfFusing.png",
-          "divineValue": 0.04202277294038848
+          "divineValue": 0.04544855750230536
         },
         {
           "id": "tempering-catalyst",
           "name": "Tempering Catalyst",
-          "value": 62.21,
+          "value": 63.26,
           "unit": "chaos",
-          "changePct": 18.54,
-          "volume": 497.7,
+          "changePct": 58.33,
+          "volume": 506,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RlbXBlcmluZ0NhdGFseXN0Iiwic2NhbGUiOjF9XQ/6bf69c356e/TemperingCatalyst.png",
-          "divineValue": 0.08333556597454789
+          "divineValue": 0.08333552891582137
         },
         {
           "id": "turbulent-catalyst",
           "name": "Turbulent Catalyst",
           "value": 5,
           "unit": "chaos",
-          "changePct": -53.42,
+          "changePct": -51.63,
           "volume": 11.67,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1R1cmJ1bGVudENhdGFseXN0Iiwic2NhbGUiOjF9XQ/1f49d03e58/TurbulentCatalyst.png",
-          "divineValue": 0.006697923643670462
+          "divineValue": 0.006586747464102226
         },
         {
           "id": "veiled-exalted-orb",
           "name": "Veiled Exalted Orb",
-          "value": 249.4,
+          "value": 272,
           "unit": "chaos",
-          "changePct": -0.86,
-          "volume": 38569,
+          "changePct": 7.88,
+          "volume": 29604,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmVpbGVkRXhhbHRlZE9yYiIsInNjYWxlIjoxfV0/976e8acb0b/VeiledExaltedOrb.png",
-          "divineValue": 0.33409243134628264
+          "divineValue": 0.3583190620471611
         },
         {
           "id": "vivid-lifeforce",
           "name": "Vivid Crystallised Lifeforce",
-          "value": 0.5504,
+          "value": 0.5641,
           "unit": "chaos",
-          "changePct": 5,
-          "volume": 626305,
+          "changePct": 3.8,
+          "volume": 771970,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9WaXZpZExpZmVmb3JjZSIsInNjYWxlIjoxfV0/a355b8a5a2/VividLifeforce.png",
-          "divineValue": 0.0007373074346952445
+          "divineValue": 0.0007431168489000133
         },
         {
           "id": "wild-lifeforce",
           "name": "Wild Crystallised Lifeforce",
-          "value": 0.06051,
+          "value": 0.05987,
           "unit": "chaos",
-          "changePct": 1.62,
-          "volume": 9207,
+          "changePct": -10.09,
+          "volume": 6579,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9XaWxkTGlmZWZvcmNlIiwic2NhbGUiOjF9XQ/e3d0b372b0/WildLifeforce.png",
-          "divineValue": 0.00008105827193569993
+          "divineValue": 0.00007886971413516006
         },
         {
           "id": "chrome",
           "name": "Chromatic Orb",
-          "value": 2.28,
+          "value": 2.25,
           "unit": "chaos",
-          "changePct": -14.8,
-          "volume": 20280,
+          "changePct": -22.42,
+          "volume": 16699,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRDb2xvdXJzIiwic2NhbGUiOjF9XQ/19c8ddae20/CurrencyRerollSocketColours.png",
-          "divineValue": 0.0030542531815137305
+          "divineValue": 0.0029640363588460017
         },
         {
           "id": "crusaders-exalted-orb",
           "name": "Crusader's Exalted Orb",
-          "value": 1120,
+          "value": 1139,
           "unit": "chaos",
-          "changePct": -14.29,
-          "volume": 9704,
+          "changePct": -25,
+          "volume": 7970,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9DcnVzYWRlck9yYiIsInNjYWxlIjoxfV0/8b48230188/CrusaderOrb.png",
-          "divineValue": 1.5003348961821836
+          "divineValue": 1.5004610723224872
         },
         {
           "id": "awakeners-orb",
           "name": "Awakener's Orb",
-          "value": 1134,
+          "value": 1299,
           "unit": "chaos",
-          "changePct": 51.95,
-          "volume": 14557,
+          "changePct": 71.11,
+          "volume": 9741,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVHJhbnNmZXJPcmIiLCJzY2FsZSI6MX1d/f3b1c1566f/TransferOrb.png",
-          "divineValue": 1.5190890823844607
+          "divineValue": 1.7112369911737584
         },
         {
-          "id": "fracturing-orb",
-          "name": "Fracturing Orb",
-          "value": 978.7,
+          "id": "greater-eldritch-ember",
+          "name": "Greater Eldritch Ember",
+          "value": 4.47,
           "unit": "chaos",
-          "changePct": 6.52,
-          "volume": 41430,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRnJhY3R1cmluZ09yYkNvbWJpbmVkIiwic2NhbGUiOjF9XQ/3fb18e8a5b/FracturingOrbCombined.png",
-          "divineValue": 1.3110515740120563
+          "changePct": 21.96,
+          "volume": 379.5,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsyIiwic2NhbGUiOjF9XQ/698817b93d/CleansingFireOrbRank2.png",
+          "divineValue": 0.00588855223290739
         },
         {
           "id": "hinekoras-lock",
           "name": "Hinekora's Lock",
-          "value": 373671,
+          "value": 376980,
           "unit": "chaos",
-          "changePct": -1.43,
-          "volume": 435950,
+          "changePct": -1.96,
+          "volume": 691130,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGluZWtvcmFzTG9jayIsInNjYWxlIjoxfV0/b188026e7f/HinekorasLock.png",
-          "divineValue": 500.5639651707971
+          "divineValue": 496.61441180345145
+        },
+        {
+          "id": "orb-of-remembrance",
+          "name": "Orb of Remembrance",
+          "value": 1035,
+          "unit": "chaos",
+          "changePct": 36.36,
+          "volume": 1898,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2VjcmV0c29mdGhlQXRsYXMvWmFuYVBpbm5hY2xlT3JiMSIsInNjYWxlIjoxfV0/c91033d1be/ZanaPinnacleOrb1.png",
+          "divineValue": 1.3634567250691607
         },
         {
           "id": "reflecting-mist",
           "name": "Reflecting Mist",
-          "value": 19409,
+          "value": 19584,
           "unit": "chaos",
-          "changePct": -20.81,
-          "volume": 35583,
+          "changePct": -21.82,
+          "volume": 16320,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVmbGVjdGl2ZU1pc3QiLCJzY2FsZSI6MX1d/26956f795e/ReflectiveMist.png",
-          "divineValue": 26
+          "divineValue": 25.7989724673956
         },
         {
           "id": "exalted-shard",
@@ -2061,357 +2151,327 @@
           "changePct": 0,
           "volume": 3.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhhbHRlZFNoYXJkIiwic2NhbGUiOjF9XQ/b9e4013af5/ExaltedShard.png",
-          "divineValue": 0.0026791694574681848
+          "divineValue": 0.0026346989856408905
         },
         {
           "id": "exceptional-eldritch-ember",
           "name": "Exceptional Eldritch Ember",
-          "value": 784.8,
+          "value": 1011,
           "unit": "chaos",
-          "changePct": 5.13,
-          "volume": 20404,
+          "changePct": 1.09,
+          "volume": 69961,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbms0Iiwic2NhbGUiOjF9XQ/c2c828fa16/CleansingFireOrbRank4.png",
-          "divineValue": 1.0513060951105158
+          "divineValue": 1.3318403372414702
         },
         {
           "id": "foulborn-exalted-orb",
           "name": "Foulborn Exalted Orb",
-          "value": 10202,
+          "value": 10089,
           "unit": "chaos",
-          "changePct": 6.36,
-          "volume": 35707,
+          "changePct": 2.24,
+          "volume": 40357,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hheXVsYS9Gb3VsYm9ybkV4YWx0ZWQiLCJzY2FsZSI6MX1d/e2146eb9af/FoulbornExalted.png",
-          "divineValue": 13.66644340254521
-        },
-        {
-          "id": "foulborn-orb-of-augmentation",
-          "name": "Foulborn Orb of Augmentation",
-          "value": 14.93,
-          "unit": "chaos",
-          "changePct": -64,
-          "volume": 124.4,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hheXVsYS9Gb3VsYm9ybkF1Z21lbnRhdGlvbiIsInNjYWxlIjoxfV0/44a866f879/FoulbornAugmentation.png",
-          "divineValue": 0.02
+          "divineValue": 13.290739033065472
         },
         {
           "id": "foulborn-regal-orb",
           "name": "Foulborn Regal Orb",
-          "value": 24.88,
+          "value": 14,
           "unit": "chaos",
-          "changePct": -79.67,
-          "volume": 124.4,
+          "changePct": -48.27,
+          "volume": 28,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hheXVsYS9Gb3VsYm9yblJlZ2FsIiwic2NhbGUiOjF9XQ/9226ef718f/FoulbornRegal.png",
-          "divineValue": 0.033328868050904216
+          "divineValue": 0.018442892899486234
         },
         {
           "id": "gcp",
           "name": "Gemcutter's Prism",
-          "value": 9.89,
+          "value": 10.44,
           "unit": "chaos",
-          "changePct": 35.12,
-          "volume": 5723,
+          "changePct": 22.23,
+          "volume": 7591,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lHZW1RdWFsaXR5Iiwic2NhbGUiOjF9XQ/dbe9678a28/CurrencyGemQuality.png",
-          "divineValue": 0.013248492967180175
+          "divineValue": 0.013753128705045447
         },
         {
           "id": "hunters-exalted-orb",
           "name": "Hunter's Exalted Orb",
-          "value": 2239,
+          "value": 2277,
           "unit": "chaos",
-          "changePct": 50,
-          "volume": 373.2,
+          "changePct": 33.6,
+          "volume": 759.1,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9CYXNpbGlza09yYiIsInNjYWxlIjoxfV0/cd2131d564/BasiliskOrb.png",
-          "divineValue": 2.9993302076356327
+          "divineValue": 2.9996047951521536
         },
         {
           "id": "mavens-chisel-of-divination",
           "name": "Maven's Chisel of Divination",
-          "value": 239.2,
+          "value": 295.2,
           "unit": "chaos",
-          "changePct": -19.89,
-          "volume": 7216,
+          "changePct": 20.72,
+          "volume": 1771,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWw1Iiwic2NhbGUiOjF9XQ/ff3e7f02eb/MavenChisel5.png",
-          "divineValue": 0.3204286671131949
+          "divineValue": 0.3888815702805954
         },
         {
           "id": "mavens-chisel-of-procurement",
           "name": "Maven's Chisel of Procurement",
-          "value": 30.47,
+          "value": 33,
           "unit": "chaos",
-          "changePct": 144.9,
-          "volume": 995.3,
+          "changePct": 48.31,
+          "volume": 379.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwxIiwic2NhbGUiOjF9XQ/a21d7d73da/MavenChisel1.png",
-          "divineValue": 0.040817146684527794
+          "divineValue": 0.043472533263074695
         },
         {
           "id": "mavens-chisel-of-proliferation",
           "name": "Maven's Chisel of Proliferation",
-          "value": 149.3,
+          "value": 191.9,
           "unit": "chaos",
-          "changePct": 24.29,
-          "volume": 2239,
+          "changePct": 1.1,
+          "volume": 2910,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5DaGlzZWwyIiwic2NhbGUiOjF9XQ/bb82bb4150/MavenChisel2.png",
-          "divineValue": 0.2
+          "divineValue": 0.2527993676722434
         },
         {
           "id": "mavens-orb",
           "name": "Orb of Dominance",
-          "value": 5259,
+          "value": 5445,
           "unit": "chaos",
-          "changePct": -1.69,
-          "volume": 19284,
+          "changePct": -3.06,
+          "volume": 20874,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5PcmIiLCJzY2FsZSI6MX1d/f307d80bfd/MavenOrb.png",
-          "divineValue": 7.044876088412592
+          "divineValue": 7.172967988407324
         },
         {
           "id": "mirror",
           "name": "Mirror of Kalandra",
-          "value": 1179959,
+          "value": 1218894,
           "unit": "chaos",
-          "changePct": -1.26,
-          "volume": 12782888,
+          "changePct": 0.41,
+          "volume": 6500768,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lEdXBsaWNhdGUiLCJzY2FsZSI6MX1d/8d7fea29d1/CurrencyDuplicate.png",
-          "divineValue": 1580.655056932351
+          "divineValue": 1605.7093927018839
         },
         {
           "id": "mirror-shard",
           "name": "Mirror Shard",
-          "value": 60652,
+          "value": 61245,
           "unit": "chaos",
-          "changePct": -0.2,
-          "volume": 566088,
+          "changePct": -1.79,
+          "volume": 193941,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWlycm9yU2hhcmQiLCJzY2FsZSI6MX1d/698183ea2b/MirrorShard.png",
-          "divineValue": 81.24849296718017
-        },
-        {
-          "id": "noxious-catalyst",
-          "name": "Noxious Catalyst",
-          "value": 2.02,
-          "unit": "chaos",
-          "changePct": -85.21,
-          "volume": 30.33,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NoYW9zUGh5c2ljYWxDYXRhbHlzdCIsInNjYWxlIjoxfV0/2b886f8343/ChaosPhysicalCatalyst.png",
-          "divineValue": 0.002705961152042867
+          "divineValue": 80.68106968778817
         },
         {
           "id": "portal",
           "name": "Portal Scroll",
-          "value": 0.02782,
+          "value": 0.02694,
           "unit": "chaos",
-          "changePct": -79.22,
-          "volume": 98.83,
+          "changePct": -79.79,
+          "volume": 106.7,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQb3J0YWwiLCJzY2FsZSI6MX1d/d92d3478a0/CurrencyPortal.png",
-          "divineValue": 0.00003726724715338245
+          "divineValue": 0.00003548939533658279
         },
         {
           "id": "prismatic-catalyst",
           "name": "Prismatic Catalyst",
-          "value": 69.02,
+          "value": 60.34,
           "unit": "chaos",
-          "changePct": -40.25,
-          "volume": 3359,
+          "changePct": -44.35,
+          "volume": 2404,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1ByaXNtYXRpY0NhdGFseXN0Iiwic2NhbGUiOjF9XQ/1e725fd26d/PrismaticCatalyst.png",
-          "divineValue": 0.09245813797722706
-        },
-        {
-          "id": "rogues-marker",
-          "name": "Rogue's Marker",
-          "value": 0.0001416,
-          "unit": "chaos",
-          "changePct": -29.17,
-          "volume": 59.83,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVpc3QvSGVpc3RDb2luQ3VycmVuY3kiLCJzY2FsZSI6MX1d/335e66630d/HeistCoinCurrency.png",
-          "divineValue": 1.8968519758874748e-7
+          "divineValue": 0.07948886839678566
         },
         {
           "id": "sacred-orb",
           "name": "Sacred Orb",
-          "value": 208.4,
+          "value": 195.6,
           "unit": "chaos",
-          "changePct": -14.86,
-          "volume": 5350,
+          "changePct": 17.31,
+          "volume": 18977,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2FjcmVkT3JiIiwic2NhbGUiOjF9XQ/0380fd0dba/SacredOrb.png",
-          "divineValue": 0.2791694574681849
+          "divineValue": 0.2576735607956791
         },
         {
           "id": "stacked-deck",
           "name": "Stacked Deck",
-          "value": 17.32,
+          "value": 17.68,
           "unit": "chaos",
-          "changePct": -0.2,
-          "volume": 176794,
+          "changePct": 0.65,
+          "volume": 135999,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9EZWNrIiwic2NhbGUiOjF9XQ/8e83aea79a/Deck.png",
-          "divineValue": 0.023201607501674482
+          "divineValue": 0.023290739033065472
         },
         {
           "id": "tailoring-orb",
           "name": "Tailoring Orb",
-          "value": 2345,
+          "value": 2379,
           "unit": "chaos",
-          "changePct": -2.26,
-          "volume": 49642,
+          "changePct": -13.41,
+          "volume": 44405,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudFdlYXBvbkN1cnJlbmN5Iiwic2NhbGUiOjF9XQ/d417654a23/DivineEnchantWeaponCurrency.png",
-          "divineValue": 3.1413261888814468
+          "divineValue": 3.1339744434198393
         },
         {
           "id": "tainted-armourers-scrap",
           "name": "Tainted Armourer's Scrap",
-          "value": 9.18,
+          "value": 10.84,
           "unit": "chaos",
-          "changePct": -8.18,
-          "volume": 33.67,
+          "changePct": 25.17,
+          "volume": 126.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUFybW91cmVyc1NjcmFwIiwic2NhbGUiOjF9XQ/9ee0a10625/HellscapeArmourersScrap.png",
-          "divineValue": 0.012297387809778968
+          "divineValue": 0.014280068502173626
         },
         {
           "id": "tainted-catalyst",
           "name": "Tainted Catalyst",
-          "value": 42.7,
+          "value": 41.51,
           "unit": "chaos",
-          "changePct": -43.05,
-          "volume": 3359,
+          "changePct": -60.15,
+          "volume": 1771,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RhaW50ZWRDYXRhbHlzdCIsInNjYWxlIjoxfV0/5ce364bd70/TaintedCatalyst.png",
-          "divineValue": 0.05720026791694575
+          "divineValue": 0.05468317744697668
         },
         {
           "id": "tainted-chaos-orb",
           "name": "Tainted Chaos Orb",
-          "value": 105,
+          "value": 11,
           "unit": "chaos",
-          "changePct": 125,
-          "volume": 1120,
+          "changePct": 120,
+          "volume": 1.83,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNoYW9zT3JiIiwic2NhbGUiOjF9XQ/64d1f4db99/HellscapeChaosOrb.png",
-          "divineValue": 0.1406563965170797
+          "divineValue": 0.014490844421024898
         },
         {
           "id": "tainted-chromatic-orb",
           "name": "Tainted Chromatic Orb",
-          "value": 17.83,
+          "value": 22.19,
           "unit": "chaos",
-          "changePct": 0.4,
-          "volume": 2862,
+          "changePct": 3.86,
+          "volume": 1898,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNocm9tYXRpY09yYiIsInNjYWxlIjoxfV0/702d29c7ab/HellscapeChromaticOrb.png",
-          "divineValue": 0.023884795713328865
+          "divineValue": 0.029231985245685682
         },
         {
           "id": "tainted-divine-orb",
           "name": "Volatile Vaal Orb",
-          "value": 3192,
+          "value": 3223,
           "unit": "chaos",
-          "changePct": -2.04,
-          "volume": 75022,
+          "changePct": -1.34,
+          "volume": 59081,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVm9sYXRpbGVWYWFsT3JiIiwic2NhbGUiOjF9XQ/9bcdda2c63/VolatileVaalOrb.png",
-          "divineValue": 4.275954454119223
+          "divineValue": 4.245817415360295
         },
         {
           "id": "tainted-divine-teardrop",
           "name": "Tainted Divine Teardrop",
-          "value": 6718,
+          "value": 8874,
           "unit": "chaos",
-          "changePct": 5.88,
-          "volume": 21275,
+          "changePct": 37.54,
+          "volume": 62117,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZVRlYXJkcm9wT3JiIiwic2NhbGUiOjF9XQ/0d251b9d52/HellscapeTeardropOrb.png",
-          "divineValue": 8.999330207635634
+          "divineValue": 11.69015939928863
         },
         {
           "id": "tainted-jewellers-orb",
           "name": "Tainted Jeweller's Orb",
-          "value": 4.15,
+          "value": 4.22,
           "unit": "chaos",
           "changePct": -36.11,
-          "volume": 248.8,
+          "volume": 126.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUpld2VsbGVyc09yYiIsInNjYWxlIjoxfV0/f146c29db2/HellscapeJewellersOrb.png",
-          "divineValue": 0.005559276624246484
+          "divineValue": 0.005559214859702279
         },
         {
           "id": "tainted-mythic-orb",
           "name": "Tainted Mythic Orb",
-          "value": 16.59,
+          "value": 58.39,
           "unit": "chaos",
-          "changePct": 0,
-          "volume": 124.4,
+          "changePct": -2.37,
+          "volume": 126.5,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU15dGhpY09yYiIsInNjYWxlIjoxfV0/72ba97d1a8/HellscapeMythicOrb.png",
-          "divineValue": 0.022223710649698594
+          "divineValue": 0.0769200368857858
         },
         {
           "id": "tempering-orb",
           "name": "Tempering Orb",
-          "value": 1781,
+          "value": 1596,
           "unit": "chaos",
-          "changePct": -17.43,
-          "volume": 13064,
+          "changePct": -25.15,
+          "volume": 10374,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudEJvZHlBcm1vdXJDdXJyZW5jeSIsInNjYWxlIjoxfV0/37681eda1c/DivineEnchantBodyArmourCurrency.png",
-          "divineValue": 2.3858004018754184
+          "divineValue": 2.1024897905414304
         },
         {
           "id": "transmute",
           "name": "Orb of Transmutation",
           "value": 0.004167,
           "unit": "chaos",
-          "changePct": 50.71,
-          "volume": 5,
+          "changePct": 125.6,
+          "volume": 1.67,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9NYWdpYyIsInNjYWxlIjoxfV0/ded9e8ee63/CurrencyUpgradeToMagic.png",
-          "divineValue": 0.000005582049564634963
+          "divineValue": 0.000005489395336582795
         },
         {
           "id": "vaal",
           "name": "Vaal Orb",
-          "value": 2.42,
+          "value": 3.14,
           "unit": "chaos",
-          "changePct": -24.86,
-          "volume": 2737,
+          "changePct": 4.22,
+          "volume": 2151,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lWYWFsIiwic2NhbGUiOjF9XQ/593fe2e22e/CurrencyVaal.png",
-          "divineValue": 0.0032417950435365034
+          "divineValue": 0.0041364774074561985
         },
         {
           "id": "veiled-chaos-orb",
           "name": "Veiled Chaos Orb",
-          "value": 293.8,
+          "value": 303.6,
           "unit": "chaos",
-          "changePct": -0.13,
-          "volume": 4603,
+          "changePct": 6.67,
+          "volume": 3542,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmVpbGVkQ2hhb3NPcmIiLCJzY2FsZSI6MX1d/fd913b89d0/VeiledChaosOrb.png",
-          "divineValue": 0.39356999330207637
-        },
-        {
-          "id": "warlords-exalted-orb",
-          "name": "Warlord's Exalted Orb",
-          "value": 933.1,
-          "unit": "chaos",
-          "changePct": -75,
-          "volume": 622.1,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9Db25xdWVyb3JPcmIiLCJzY2FsZSI6MX1d/57f0d85951/ConquerorOrb.png",
-          "divineValue": 1.2499665103817816
+          "divineValue": 0.3999473060202872
         },
         {
           "id": "whetstone",
           "name": "Blacksmith's Whetstone",
           "value": 0.07143,
           "unit": "chaos",
-          "changePct": 145.1,
-          "volume": 0.1667,
+          "changePct": 113.7,
+          "volume": 0.8333,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lXZWFwb25RdWFsaXR5Iiwic2NhbGUiOjF9XQ/c9cd72719e/CurrencyWeaponQuality.png",
-          "divineValue": 0.00009568653717347621
+          "divineValue": 0.0000940982742721644
         },
         {
           "id": "wisdom",
           "name": "Scroll of Wisdom",
-          "value": 0.0036,
+          "value": 0.003663,
           "unit": "chaos",
-          "changePct": 0.47,
-          "volume": 15,
+          "changePct": -31.83,
+          "volume": 12.33,
           "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJZGVudGlmaWNhdGlvbiIsInNjYWxlIjoxfV0/c2d03ed3fd/CurrencyIdentification.png",
-          "divineValue": 0.000004822505023442732
+          "divineValue": 0.000004825451192201291
         },
         {
-          "id": "flesh-of-xesht",
-          "name": "Flesh of Xesht",
-          "value": 373.2,
+          "id": "rogues-marker",
+          "name": "Rogue's Marker",
+          "value": 0.000143,
           "unit": "chaos",
-          "changePct": -9.09,
-          "volume": 124.4,
-          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hheXVsYS9Db3JlQnJlYWNoQ3VycmVuY3kiLCJzY2FsZSI6MX1d/32fda5c220/CoreBreachCurrency.png",
-          "divineValue": 0.4999330207635633
+          "changePct": 7.25,
+          "volume": 58.5,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVpc3QvSGVpc3RDb2luQ3VycmVuY3kiLCJzY2FsZSI6MX1d/335e66630d/HeistCoinCurrency.png",
+          "divineValue": 1.8838097747332367e-7
+        },
+        {
+          "id": "warlords-exalted-orb",
+          "name": "Warlord's Exalted Orb",
+          "value": 759.1,
+          "unit": "chaos",
+          "changePct": -42.85,
+          "volume": 253,
+          "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9Db25xdWVyb3JPcmIiLCJzY2FsZSI6MX1d/57f0d85951/ConquerorOrb.png",
+          "divineValue": 1
         }
       ]
     },
