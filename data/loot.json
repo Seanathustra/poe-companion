@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:12:52.928Z",
+  "generatedAt": "2026-11-11T13:28:43.078Z",
   "categories": [
     {
       "id": "boss",
@@ -1199,6 +1199,14 @@
               "wikiUrl": "https://www.poewiki.net/wiki/Cadigan's_Crown"
             },
             {
+              "name": "Heroic Tragedy",
+              "pageName": "Heroic Tragedy",
+              "rarity": "unique",
+              "itemClass": "Jewel",
+              "iconUrl": "./data/icons/heroic-tragedy.png",
+              "wikiUrl": "https://www.poewiki.net/wiki/Heroic_Tragedy"
+            },
+            {
               "name": "Olroth's Resolve",
               "pageName": "Olroth's Resolve",
               "rarity": "unique",
@@ -1854,35 +1862,19 @@
             },
             {
               "name": "Doryani's Invitation",
+              "pageName": "Doryani's Invitation",
+              "rarity": "unique",
+              "itemClass": "Belt",
+              "iconUrl": "./data/icons/doryani-s-invitation.png",
+              "wikiUrl": "https://www.poewiki.net/wiki/Doryani's_Invitation"
+            },
+            {
+              "name": "Doryani's Invitation",
               "pageName": "Doryani's Invitation (Cold Damage)",
               "rarity": "unique",
               "itemClass": "Belt",
               "iconUrl": "./data/icons/doryani-s-invitation.png",
               "wikiUrl": "https://www.poewiki.net/wiki/Doryani's_Invitation_(Cold_Damage)"
-            },
-            {
-              "name": "Doryani's Invitation",
-              "pageName": "Doryani's Invitation (Fire Damage)",
-              "rarity": "unique",
-              "itemClass": "Belt",
-              "iconUrl": "./data/icons/doryani-s-invitation.png",
-              "wikiUrl": "https://www.poewiki.net/wiki/Doryani's_Invitation_(Fire_Damage)"
-            },
-            {
-              "name": "Doryani's Invitation",
-              "pageName": "Doryani's Invitation (Lightning Damage)",
-              "rarity": "unique",
-              "itemClass": "Belt",
-              "iconUrl": "./data/icons/doryani-s-invitation.png",
-              "wikiUrl": "https://www.poewiki.net/wiki/Doryani's_Invitation_(Lightning_Damage)"
-            },
-            {
-              "name": "Doryani's Invitation",
-              "pageName": "Doryani's Invitation (Physical Damage)",
-              "rarity": "unique",
-              "itemClass": "Belt",
-              "iconUrl": "./data/icons/doryani-s-invitation.png",
-              "wikiUrl": "https://www.poewiki.net/wiki/Doryani's_Invitation_(Physical_Damage)"
             },
             {
               "name": "Greater Spell Echo Support",
@@ -1968,6 +1960,14 @@
             "Metadata/Monsters/LeagueUltimatum/TrialMaster/TrialMasterBossStandalone"
           ],
           "items": [
+            {
+              "name": "Ambition",
+              "pageName": "Ambition",
+              "rarity": "unique",
+              "itemClass": "UniqueFragment",
+              "iconUrl": "./data/icons/ambition.png",
+              "wikiUrl": "https://www.poewiki.net/wiki/Ambition"
+            },
             {
               "name": "Glimpse of Chaos",
               "pageName": "Glimpse of Chaos",
